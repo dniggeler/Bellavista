@@ -1,0 +1,572 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZendSkeletonApplication\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-17 23:10+0100\n"
+"PO-Revision-Date: 2015-09-24 22:48+0200\n"
+"Last-Translator: Evan Coury <me@evancoury.com>\n"
+"Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: translate\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../view/application/home/DummySliderCaptions.phtml:2
+msgid "LocalResources.ContentPage.slide_start_imagecaption_1"
+msgstr "Willkommen im Ristorante Albergo Bellavista in Brissago"
+
+#: ../view/application/home/DummySliderCaptions.phtml:3
+msgid "LocalResources.ContentPage.slide_start_imagecaption_2"
+msgstr "<i>„Die Welt gehört dem, der sie geniesst.“</i> - Giacomo Leopardi"
+
+#: ../view/application/home/DummySliderCaptions.phtml:4
+msgid "LocalResources.ContentPage.slide_start_imagecaption_3"
+msgstr ""
+"<i>\"Ich habe einen ganz einfachen Geschmack: Ich bin immer mit dem Besten "
+"zufrieden.\"</i> - Oscar Wilde."
+
+#: ../view/application/home/DummySliderCaptions.phtml:5
+msgid "LocalResources.ContentPage.slide_start_imagecaption_4"
+msgstr "Geniessen Sie den atemberaubenden Ausblick auf unserer Terrasse"
+
+#: ../view/application/home/DummySliderCaptions.phtml:6
+msgid "LocalResources.ContentPage.slide_start_imagecaption_5"
+msgstr "Mit Blick auf Ascona"
+
+#: ../view/application/home/DummySliderCaptions.phtml:8
+msgid "LocalResources.ContentPage.slide_hotel_imagecaption_1"
+msgstr "150 Meter über dem See finden Sie ein kleines familiäres Haus"
+
+#: ../view/application/home/DummySliderCaptions.phtml:9
+msgid "LocalResources.ContentPage.slide_hotel_imagecaption_2"
+msgstr " Mit Swimmingpool"
+
+#: ../view/application/home/DummySliderCaptions.phtml:10
+msgid "LocalResources.ContentPage.slide_hotel_imagecaption_3"
+msgstr " Terrasse mit atemberaubendem Ausblick"
+
+#: ../view/application/home/DummySliderCaptions.phtml:11
+msgid "LocalResources.ContentPage.slide_hotel_imagecaption_4"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:12
+msgid "LocalResources.ContentPage.slide_hotel_imagecaption_5"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:14
+msgid "LocalResources.ContentPage.slide_rooms_imagecaption_1"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:15
+msgid "LocalResources.ContentPage.slide_rooms_imagecaption_2"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:16
+msgid "LocalResources.ContentPage.slide_rooms_imagecaption_3"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:17
+msgid "LocalResources.ContentPage.slide_rooms_imagecaption_4"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:19
+msgid "LocalResources.ContentPage.slide_restaurant_imagecaption_1"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:20
+msgid "LocalResources.ContentPage.slide_restaurant_imagecaption_2"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:21
+msgid "LocalResources.ContentPage.slide_restaurant_imagecaption_3"
+msgstr "Frühstücksbuffet"
+
+#: ../view/application/home/DummySliderCaptions.phtml:22
+msgid "LocalResources.ContentPage.slide_restaurant_imagecaption_4"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:24
+msgid "LocalResources.ContentPage.slide_about_imagecaption_1"
+msgstr "Gabriela und Urs Niggeler"
+
+#: ../view/application/home/DummySliderCaptions.phtml:25
+msgid "LocalResources.ContentPage.slide_about_imagecaption_2"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:26
+msgid "LocalResources.ContentPage.slide_about_imagecaption_3"
+msgstr " "
+
+#: ../view/application/home/about.phtml:1
+msgid "LocalResources.ContentPage.slide_about_titel"
+msgstr "Familie Niggeler heisst Sie herzlich willkommen!"
+
+#: ../view/application/home/about.phtml:3
+msgid "LocalResources.ContentPage.slide_about_text_vision"
+msgstr ""
+"Und nur das Beste erwartet Sie bei uns im Hotel Bellavista Brissago im "
+"sonnigen Tessin. Erleben Sie Luxus pur – und das zu günstigen Preisen. Denn "
+"Luxus muss nicht teuer sein. Unter dem Motto „SMART LUXURY“ bieten wir Ihnen "
+"ein einzigartiges Ambiente. Ihre individuellen Wünsche und Bedürfnisse "
+"liegen uns dabei ganz besonders am Herzen."
+
+#: ../view/application/home/about.phtml:4
+msgid "LocalResources.ContentPage.slide_about_text_1"
+msgstr "Damit Sie sich im familiären Rahmen wohlfühlen, dafür sorgen:"
+
+#: ../view/application/home/about.phtml:7
+msgid "LocalResources.ContentPage.slide_about_text_2"
+msgstr "Gabriela Niggeler und Andrea Schrabeck im Restaurant"
+
+#: ../view/application/home/about.phtml:8
+msgid "LocalResources.ContentPage.slide_about_text_3"
+msgstr "Urs Niggeler und Alessandro Cannone in der Küche"
+
+#: ../view/application/home/about.phtml:9
+msgid "LocalResources.ContentPage.slide_about_text_4"
+msgstr "Francesca Melon und Gloria Ferreira auf der Etage"
+
+#: ../view/application/home/booking.phtml:1
+msgid "LocalResources.ContentPage.slide_booking_titel"
+msgstr "Buchen"
+
+#: ../view/application/home/booking.phtml:10
+msgid "LocalResources.ContentPage.slide_about_contact_phone"
+msgstr "Tel.:"
+
+#: ../view/application/home/booking.phtml:11
+msgid "LocalResources.ContentPage.slide_about_contact_fax"
+msgstr "Fax:"
+
+#: ../view/application/home/booking.phtml:16
+msgid "LocalResources.ContentPage.slide_about_contact"
+msgstr "Rufen Sie uns an, oder senden Sie uns eine "
+
+#: ../view/application/home/booking.phtml:17
+msgid "LocalResources.ContentPage.slide_about_contact_email"
+msgstr "E-Mail"
+
+#: ../view/application/home/hotel.phtml:1
+msgid "LocalResources.ContentPage.slide_hotel_titel"
+msgstr "Hotel"
+
+#: ../view/application/home/hotel.phtml:3
+msgid "LocalResources.ContentPage.slide_hotel_text_1"
+msgstr ""
+"Ausspannen, sich verwöhnen lassen, auf der Terrasse sitzen und beim Blick "
+"über den Lago Maggiore in eine andere Welt eintauchen, Raum und Zeit "
+"vergessen, sich selbst sein."
+
+#: ../view/application/home/index.phtml:1
+msgid "LocalResources.ContentPage.slide_start_titel"
+msgstr "Unser Motto lautet: \"SMART LUXURY\""
+
+#: ../view/application/home/index.phtml:3
+msgid "LocalResources.ContentPage.slide_start_text_1"
+msgstr ""
+"Geniessen Sie den atemberaubenden Ausblick auf unserer Terrasse und lassen "
+"Sie sich in unserem Restaurant mit ausgewählten Gaumenfreunden verwöhnen. "
+"Das Bellavista Brissago heisst Sie herzlich willkommen!"
+
+#: ../view/application/home/restaurant.phtml:1
+msgid "LocalResources.ContentPage.slide_restaurant_titel"
+msgstr "Auch ohne Sterne verwöhnen wir Sie gerne"
+
+#: ../view/application/home/restaurant.phtml:3
+msgid "LocalResources.ContentPage.slide_restaurant_text_1"
+msgstr ""
+"Unsere Speisekarte mit zahlreichen feinen Spezialitäten hat sich in der "
+"Region schnell einen guten Namen gemacht. Dazu lassen sich aus unserem "
+"Weinkeller vorzügliche Tropfen nicht zuletzt auch aus den nahen Rebbergen "
+"kombinieren."
+
+#: ../view/application/home/restaurant.phtml:7
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen"
+msgstr "Speisekarten"
+
+#: ../view/application/home/restaurant.phtml:11
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_spezial"
+msgstr "Geschmorte Hausspezialitäten"
+
+#: ../view/application/home/restaurant.phtml:16
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_hit"
+msgstr "Wildspezialitäten"
+
+#: ../view/application/home/restaurant.phtml:21
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
+msgstr "Warme Vorspeisen, Vegi"
+
+#: ../view/application/home/restaurant.phtml:26
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_salat"
+msgstr "Salate Kalt Klein und Fein"
+
+#: ../view/application/home/restaurant.phtml:33
+msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_titel"
+msgstr "Weinkarten"
+
+#: ../view/application/home/restaurant.phtml:37
+msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_ch_rot"
+msgstr "Schweizer Rotweine"
+
+#: ../view/application/home/restaurant.phtml:42
+msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_it_rot"
+msgstr "Italienische Rotweine"
+
+#: ../view/application/home/restaurant.phtml:47
+msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_weisse"
+msgstr "Weissweine"
+
+#: ../view/application/home/review.phtml:1
+msgid "LocalResources.ContentPage.slide_review_titel"
+msgstr "Bewertung"
+
+#: ../view/application/home/rooms.phtml:1
+msgid "LocalResources.ContentPage.slide_rooms_titel"
+msgstr "Zimmer"
+
+#: ../view/application/home/rooms.phtml:4
+msgid "LocalResources.ContentPage.slide_rooms_greetings"
+msgstr ""
+"Liebe Gäste, Freunde und Restaurantbesucher</br>Dank unserer Nationalbank "
+"haben wir die Preise zu Ihren Gunsten gesenkt!"
+
+#: ../view/application/home/rooms.phtml:8
+msgid "LocalResources.ContentPage.slide_rooms_desc"
+msgstr ""
+"Alle Zimmer „ohne TV und Telefon“ für beste Aussichten auf Erholung. Ein "
+"WLAN-Internet-Zugang stellen wir Ihnen kostenlos zur Verfügung."
+
+#: ../view/application/home/rooms.phtml:13
+msgid "LocalResources.ContentPage.slide_rooms_lnk_preise"
+msgstr "Preisliste"
+
+#: ../view/application/home/rooms.phtml:18
+msgid "LocalResources.ContentPage.slide_rooms_lnk_stornierung"
+msgstr "Stornierungshinweis"
+
+#: ../view/application/home/rooms.phtml:25
+msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer1_desc"
+msgstr "Doppelzimmer mit Dusche/WC, Seesicht, Balkon"
+
+#: ../view/application/home/rooms.phtml:27
+msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer1_price"
+msgstr ""
+"Preise: 1 Nacht Fr. 198.-, 2 - 3 Nächte Fr. 178.-, 4 - 6 Nächte Fr. 158.-, "
+"ab 7 Nächten Fr. 148.-"
+
+#: ../view/application/home/rooms.phtml:31
+msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer2_desc"
+msgstr "Doppelzimmer mit Dusche/WC, Seesicht, Gartensitzplatz"
+
+#: ../view/application/home/rooms.phtml:33
+msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer2_price"
+msgstr ""
+"Preise: 1 Nacht Fr. 178.-, 2 - 3 Nächte Fr. 168.-, 4 - 6 Nächte Fr. 148.-, "
+"ab 7 Nächten Fr. 138.-"
+
+#: ../view/application/home/rooms.phtml:37
+msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer3_desc"
+msgstr "Doppelzimmer mit Dusche/WC, Seesicht"
+
+#: ../view/application/home/rooms.phtml:39
+msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer3_price"
+msgstr ""
+"Preise: 1 Nacht Fr. 178.-, 2 - 3 Nächte Fr. 158.-, 4 - 6 Nächte Fr. 138.-, "
+"ab 7 Nächten Fr. 128.-"
+
+#: ../view/application/home/rooms.phtml:42
+msgid "LocalResources.ContentPage.slide_rooms_popup_footer_desc"
+msgstr ""
+"Halbpension: Ein täglich wechselndes Abendmenu in drei Gängen, pro Person "
+"Fr. 38.00<br />Hund ohne Mahlzeiten: Fr. 12.-"
+
+#: ../view/application/home/rooms.phtml:46
+msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_intro"
+msgstr ""
+"Falls Sie Ihre Zimmerreservation stornieren oder Ihren Aufenthalt verkürzen "
+"wollen, gilt Folgendes zu beachten:"
+
+#: ../view/application/home/rooms.phtml:48
+msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_item1"
+msgstr "Stornierungen bedingen der schriftlichen Form."
+
+#: ../view/application/home/rooms.phtml:49
+msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_item2"
+msgstr ""
+"Fehlen spezielle Vereinbarungen, so fallen bis 1 Woche vor Ferienantritt "
+"keine Stornokosten an."
+
+#: ../view/application/home/rooms.phtml:50
+msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_item3"
+msgstr ""
+"Ab 6 Tagen vor Ferienantritt berechnen wir 50% des gebuchten Arrangement."
+
+#: ../view/application/home/rooms.phtml:51
+msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_item4"
+msgstr ""
+"Ab 3 Tagen vor Ferienantritt berechnen wir 100% des gebuchten Arrangement, "
+"falls kein Ersatzmieter gefunden werden kann. Die gleiche Regelung gilt für "
+"verspätete Ferienantritte oder vorzeitige Abreisen."
+
+#: ../view/application/home/rooms.phtml:63
+msgid "LocalResources.ContentPage.slide_rooms_bezahlung"
+msgstr ""
+"Wir akzeptieren: MAESTRO, MASTERCARD, VISA, POSTCARD und REKA als "
+"Zahlungsmittel."
+
+#: ../view/application/home/rooms.phtml:74
+msgid "LocalResources.ContentPage.slide_rooms_popup_title_stornierung"
+msgstr "Stornierung"
+
+#: ../view/application/home/rooms.phtml:84
+msgid "LocalResources.ContentPage.slide_rooms_popup_title_preise"
+msgstr "Preisliste 2014"
+
+#: ../view/application/home/specials.phtml:1
+msgid "LocalResources.ContentPage.slide_specials_titel"
+msgstr "Sonderangebote"
+
+#: ../view/application/home/specials.phtml:4
+msgid "LocalResources.ContentPage.slide_specials_subtitel1"
+msgstr "Buntes Brissago - Kurzurlaub"
+
+#: ../view/application/home/specials.phtml:7
+msgid "LocalResources.ContentPage.slide_specials_text1_line1"
+msgstr "13.10. - 26.10.2014"
+
+#: ../view/application/home/specials.phtml:9
+msgid "LocalResources.ContentPage.slide_specials_text1_line2"
+msgstr "3 Nächte / inkl. Frühstücksbuffet und Abendessen"
+
+#: ../view/application/home/specials.phtml:11
+msgid "LocalResources.ContentPage.slide_specials_text1_line3"
+msgstr "Total Fr. 330.00 pro Person"
+
+#: ../view/application/home/specials.phtml:17
+msgid "LocalResources.ContentPage.slide_specials_subtitel2"
+msgstr "Glühwein mit Zimt - Kurzurlaub"
+
+#: ../view/application/home/specials.phtml:20
+msgid "LocalResources.ContentPage.slide_specials_text2_line1"
+msgstr "21.11. - 21.12.2014"
+
+#: ../view/application/home/specials.phtml:22
+msgid "LocalResources.ContentPage.slide_specials_text2_line2"
+msgstr "3 Nächte / inkl. Frühstücksbuffet und Abendessen"
+
+#: ../view/application/home/specials.phtml:24
+msgid "LocalResources.ContentPage.slide_specials_text2_line3"
+msgstr "Total Fr. 330.00 pro Person"
+
+#: ../view/error/404.phtml:3
+msgid "Page not found"
+msgstr "Seite wurde nicht gefunden"
+
+#: ../view/error/404.phtml:5 ../view/error/index.phtml:5
+msgid "Please use "
+msgstr "Bitte gehen Sie auf "
+
+#: ../view/error/index.phtml:3
+msgid "Unexpected error occurred."
+msgstr "Es ist ein unerwarteter Fehler aufgetreten"
+
+#: ../view/layout/layout.phtml:110
+msgid "Navbar._MainLayout.nav_home"
+msgstr "Start"
+
+#: ../view/layout/layout.phtml:111
+msgid "Navbar._MainLayout.nav_hotel"
+msgstr "Hotel"
+
+#: ../view/layout/layout.phtml:112
+msgid "Navbar._MainLayout.nav_rooms"
+msgstr "Zimmer"
+
+#: ../view/layout/layout.phtml:113
+msgid "Navbar._MainLayout.nav_restaurant"
+msgstr "Restaurant"
+
+#: ../view/layout/layout.phtml:114
+msgid "Navbar._MainLayout.nav_booking"
+msgstr "Buchen"
+
+#: ../view/layout/layout.phtml:115
+msgid "Navbar._MainLayout.nav_about"
+msgstr "Über uns"
+
+#~ msgid "LocalResources.ContentPage.slide_hotel_text_2"
+#~ msgstr ""
+#~ "Ausnahmsweise bleibt das Hotel Bellavista vom 12.11. bis 20.11.2014 "
+#~ "geschlossen."
+
+#~ msgid "LocalResources.ContentPage.slide_start_text_silv_1"
+#~ msgstr "Unser "
+
+#~ msgid "LocalResources.ContentPage.slide_start_text_silv_2"
+#~ msgstr "Silvester-Menü"
+
+#~ msgid "LocalResources.ContentPage.slide_start_text_silv_3"
+#~ msgstr "  ist da!"
+
+#~ msgid "LocalResources.ContentPage.slide_start_text_2_1"
+#~ msgstr "Wir haben attraktive "
+
+#~ msgid "LocalResources.ContentPage.slide_start_text_2_2"
+#~ msgstr "Sonderangebote"
+
+#~ msgid "LocalResources.ContentPage.slide_start_text_2_3"
+#~ msgstr " für Sie!"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_wild"
+#~ msgstr "Wildspezialitäten"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_pasta"
+#~ msgstr "Teigwaren"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_fitness"
+#~ msgstr "Fitness"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_vorschau"
+#~ msgstr "Saisonale Spezialitäten"
+
+#~ msgid "LocalResources.ContentPage.slide_references_titel"
+#~ msgstr "Bewertung"
+
+#~ msgid "Additional information"
+#~ msgstr "Zusätzliche Information"
+
+#~ msgid "File"
+#~ msgstr "Datei"
+
+#~ msgid "Message"
+#~ msgstr "Meldung"
+
+#~ msgid "Stack trace"
+#~ msgstr "Stapelüberwachung"
+
+#~ msgid "Previous exceptions"
+#~ msgstr "Vorherige Ausnahme"
+
+#~ msgid "No Exception available"
+#~ msgstr "Es ist keine Ausnahme verfügbar"
+
+#~ msgid "A 404 error occurred"
+#~ msgstr "Es trat ein 404 Fehler auf"
+
+#~ msgid "The requested controller was unable to dispatch the request."
+#~ msgstr ""
+#~ "Der angeforderte Controller war nicht in der Lage die Anfrage zu "
+#~ "verarbeiten."
+
+#~ msgid ""
+#~ "The requested controller could not be mapped to an existing controller "
+#~ "class."
+#~ msgstr ""
+#~ "Der angeforderte Controller konnte keiner Controller Klasse zugeordnet "
+#~ "werden."
+
+#~ msgid "The requested controller was not dispatchable."
+#~ msgstr "Der angeforderte Controller ist nicht aufrufbar."
+
+#~ msgid "The requested URL could not be matched by routing."
+#~ msgstr ""
+#~ "Für die angeforderte URL konnte keine Übereinstimmung gefunden werden."
+
+#~ msgid "We cannot determine at this time why a 404 was generated."
+#~ msgstr ""
+#~ "Zu diesem Zeitpunkt ist es uns nicht möglich zu bestimmen, warum ein 404 "
+#~ "Fehler aufgetreten ist."
+
+#~ msgid "Controller"
+#~ msgstr "Controller"
+
+#~ msgid "resolves to %s"
+#~ msgstr "wird aufgelöst in %s"
+
+#, fuzzy
+#~ msgid "Welcome to %sZend Framework 3%s"
+#~ msgstr "Willkommen zu dem %sZend Framework 2%s"
+
+#~ msgid ""
+#~ "Congratulations! You have successfully installed the %sZF2 Skeleton "
+#~ "Application%s. You are currently running Zend Framework version %s. This "
+#~ "skeleton can serve as a simple starting point for you to begin building "
+#~ "your application on ZF2."
+#~ msgstr ""
+#~ "Herzlichen Glückwunsch! Sie haben die %sZF2 Skeleton Application%s "
+#~ "erfolgreich installiert und benutzen gerade die Version %s des Zend "
+#~ "Frameworks. Dieses Gerüst kann Ihnen als Einstiegspunkt, für Ihre weitere "
+#~ "Entwicklung, basierend auf dem Zend Framework 2, dienen."
+
+#~ msgid "Fork Zend Framework 2 on GitHub"
+#~ msgstr "Fork Zend Framework 2 auf GitHub"
+
+#~ msgid "Follow Development"
+#~ msgstr "Folge der Entwicklung"
+
+#~ msgid ""
+#~ "Zend Framework 2 is under active development. If you are interested in "
+#~ "following the development of ZF2, there is a special ZF2 portal on the "
+#~ "official Zend Framework website which provides links to the ZF2 %swiki%s, "
+#~ "%sdev blog%s, %sissue tracker%s, and much more. This is a great resource "
+#~ "for staying up to date with the latest developments!"
+#~ msgstr ""
+#~ "Das Zend Framework 2 wird z.Z. aktiv weiterentwickelt.  Sollten Sie daran "
+#~ "interessiert sein, die Entwicklung von ZF2 zu verfolgen, so bietet Ihnen "
+#~ "die offizielle Webseite einen eigens für das Zend Framework 2 "
+#~ "eingerichteten Bereich, auf der Sie Verlinkungen zum ZF2 %sWiki%s, "
+#~ "%sEntwickler Blog%s, einem %sFehlerverfolgungssystem%s und noch vielem "
+#~ "mehr finden. Dieser Bereich ist eine hervorragende Quelle um stets "
+#~ "aktuell zu bleiben."
+
+#~ msgid "ZF2 Development Portal"
+#~ msgstr "ZF2 Entwickler Portal"
+
+#~ msgid "Discover Modules"
+#~ msgstr "Entdecken Sie Module"
+
+#~ msgid ""
+#~ "The community is working on developing a community site to serve as a "
+#~ "repository and gallery for ZF2 modules. The project is available %son "
+#~ "GitHub%s. The site is currently live and currently contains a list of "
+#~ "some of the modules already available for ZF2."
+#~ msgstr ""
+#~ "Die Community arbeitet momentan an einer Community Seite, welche als "
+#~ "Galerie für ZF2 Module dient. Dieses Projekt ist %sauf GitHub%s "
+#~ "verfügbar. Die Webseite ist bereits Online und enthält eine Liste mit "
+#~ "schon veröffentlichten Modulen für das Zend Framework 2."
+
+#~ msgid "Explore ZF2 Modules"
+#~ msgstr "Erkunden Sie ZF2 Module"
+
+#~ msgid "Help &amp; Support"
+#~ msgstr "Hilfe &amp; Support"
+
+#~ msgid ""
+#~ "If you need any help or support while developing with ZF2, you may reach "
+#~ "us via IRC: %s#zftalk on Freenode%s. We'd love to hear any questions or "
+#~ "feedback you may have regarding the beta releases. Alternatively, you may "
+#~ "subscribe and post questions to the %smailing lists%s."
+#~ msgstr ""
+#~ "Sollten Sie Hilfe jeglicher Art bei der Entwicklung mit dem Zend "
+#~ "Framework 2 benötigen, kontaktieren Sie uns doch einfach über das IRC: "
+#~ "%s#zftalk on Freenode%s. Wir freuen uns darauf, Ihnen bei Ihren Fragen zu "
+#~ "helfen oder aber auch Ihre Meinung bezüglich der Beta Versionen zu hören. "
+#~ "Alternativ können Sie auch die %smailing lists%s abonnieren und Ihre "
+#~ "Fragen dort stellen."
+
+#~ msgid "Ping us on IRC"
+#~ msgstr "Schreiben Sie uns im IRC an"
+
+#~ msgid "Home"
+#~ msgstr "Startseite"
+
+#~ msgid "All rights reserved."
+#~ msgstr "Alle Rechte vorbehalten."
+
+#~ msgid "Exception"
+#~ msgstr "Ausnahme"

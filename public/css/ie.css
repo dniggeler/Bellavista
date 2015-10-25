@@ -1,0 +1,3 @@
+.events > li > figure a, .rules > li > figure, #contact-form textarea, #contact-form input, .room img, .room .img_wrap, .welcome img, .staff img, .rooms1 img, .book img, .blog img, .gallery img{behavior:url(js/PIE.htc);position:relative;}
+
+.room .img_wrap em{behavior:url(js/PIE.htc);}

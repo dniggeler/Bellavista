@@ -1,0 +1,293 @@
+@import url('reset.css');
+@import url('skeleton.css');
+@import url('superfish.css');
+@import url('flexslider.css');
+@import url('flex-caption.css');
+@import url('touchTouch.css');
+@import url('twitter.css');
+@import url('bellavista-ext.css');
+
+@import url(http://fonts.googleapis.com/css?family=Tinos);
+
+article,aside,audio,canvas,command,datalist,details,embed,figcaption,figure,footer,header,hgroup,keygen,meter,nav,output,progress,section,source,video{display:block}mark,rp,rt,ruby,summary,time{display:inline}
+/* Global properties ======================================================== */
+html {width:100%}
+
+body {font-family:Arial, Helvetica, sans-serif; font-size:13px; line-height:18px; color:#050505; min-width:960px; background:#fff; -webkit-text-size-adjust: none;}
+
+/*********************************fonts*************************************/
+.reg {text-transform:uppercase}
+.f_left {float:left}
+.f_right {float:right}
+.align_right {text-align:right}
+.align_center {text-align:center}
+
+.it{font-style:italic}
+.let{letter-spacing:-1px}
+
+/*********************************CLASSES**********************************/
+.m_bottom_zero{ margin-bottom:0 !important;}
+.m_left_zero{ margin-left:0 !important;}
+.p_bottom_zero{ padding-bottom:0 !important;}
+.p_left_zero{ padding-left:0 !important;}
+
+.clear {clear:both;width:100%;line-height:0;font-size:0;}
+.wrapper {width:100%;overflow:hidden}
+.extra_wrapper{ overflow:hidden;}
+
+.extra_last, .last{ margin-bottom:0 !important; padding-bottom:0 !important;}
+.extra_last{ border:none !important; background:none !important;}
+.bg_none{ background:none !important;}
+
+/*==================================== Links ======================================================== */
+a {color:#050505;outline:none; text-decoration:none; cursor:pointer;}
+a:hover{ color:#1e1e1e; text-decoration:none;}
+
+/*********************************Displays*************************************/
+.block{ display:block;}
+.inline-block{ display:inline-block;}
+
+/*********************************header*************************************/
+
+header {padding: 20px 0 25px;overflow: hidden;}
+header h1{overflow: hidden;font-weight: normal;float: left;padding-left: 1px;}
+
+header .lang-select,
+       .contact, 
+       .email{padding: 0px 0 0 40px; float: right;font-size: 16px; line-height: 22px; color: #d6d6d6;margin: 14px 0 0 0;letter-spacing: -1px;}
+
+header .contact,
+       .email{padding: 0 0 0 12px; background: url('../images/contact.png') 0 4px no-repeat; font-size: 18px; margin: 0px 0 0 0;}
+
+header .email{background: url('../images/icons/mail.png') 0 4px no-repeat;font-size: 14px;}
+header .email a {color:#d6d6d6;margin: 0 0 0 8px;}
+header .email a:hover {color: #1e1e1e;}
+
+header .lang-select ul li {display:inline; text-transform:uppercase;}
+header .lang-select a {color:#d6d6d6;margin: 0 0 0 8px;}
+header .lang-select a:hover {color: #1e1e1e;}
+header .lang-select .active {text-decoration:underline}
+
+header h1>span{display: block;float: left;border-left: 1px solid #f2f2f2;font-size: 38px; line-height: 46px; color: #d6d6d6;text-transform: uppercase;margin-left: 20px;padding: 12px 0 0 12px;letter-spacing: -2px;}
+header h1 span span{display: block;margin-top: -18px;}
+header h1 a {float: left;display:block;width:240px;height:92px;background:url(../images/bellavista.png) 0 0 no-repeat; text-decoration:none; text-indent:-9999px;}
+
+/*********************************content*************************************/
+#content {padding: 10px 0px 10px 0px;}
+.cont_pad{padding: 10px 0 10px 0 !important;}
+.cont_pad a { text-decoration: underline;}
+.MyText { font-size: 1.1em; color:#050505; }
+.image-caption { color:#FFFFFF; }
+.popup-lnk { color: #000000; text-decoration: underline; }
+.popup-lnk > img {margin-right: 5px;}
+.popup-wnd { width: 480px !important; }
+.hidden_content { display:none;}
+
+/*===============================>> Paragraphs <<=============================*/
+
+p {margin-bottom:18px}
+.p2{ margin-bottom:45px;}
+.p3{ margin-bottom:22px;}
+.p4{ margin-bottom:21px;}
+.p5{ margin-bottom:27px;}
+.p6{ margin-bottom:23px;}
+
+/*================================>> LISTS <<========================================*/
+.list1{}
+.list1 li{ background:url(../images/marker1.png) 0 3px no-repeat; padding-left:22px;margin-bottom: 6px;}
+.list1 a{font-style: italic;color: #1e1e1e;}
+.list1 a:hover{color: #050505;text-decoration: underline;}
+
+
+/*================================>> H <<========================================*/
+h2,h3,h4{ font-weight:normal;}
+h2{font-size: 32px; line-height: 39px; color:#1e1e1e;margin-bottom: 23px;letter-spacing: -1px; text-transform:uppercase;}
+h2 span{display: block;margin-top: -11px;}
+
+h2.ind{ margin-bottom:23px;}
+h2.ind1{ margin-bottom:47px;}
+h2.ind2{ margin-bottom:41px;}
+h2.ind3{ margin-bottom:18px;}
+h2.ind4{ margin-bottom:46px;}
+h2.ind5{ margin-bottom:45px;}
+
+h3{font-size: 13px; line-height: 18px; color:#1e1e1e; text-transform: uppercase;}
+h3.ind1{ margin-bottom:px;}
+h3.ind2{ margin-bottom:px;}
+h3.ind3{ margin-bottom:px;}
+
+h4{font-size: 22px; line-height: 27px; color: #1e1e1e;margin-bottom: 1px;}
+h4 span{display: block;margin-top: -7px;}
+/*================================>> GOOGLE FONTS  <<========================================*/
+.events>li time, header h1, .contact, .flexslider .message, h2, h3, h4, .rules>li>figure, .link2{font-family: 'Tinos', serif;}
+
+/*================================>> hovers <<========================================*/
+.sf-menu a, .events a, .rooms1 a em{-webkit-transition: all 0.5s ease;-moz-transition: all 0.5s ease;-o-transition: all 0.5s ease;transition: all 0.5s ease;}
+
+.room .img_wrap, .room .img_wrap em, .gallery .img_wrap em, .link1{-webkit-transition: all 0.3s ease;-moz-transition: all 0.3s ease;-o-transition: all 0.3s ease;transition: all 0.3s ease;}
+/*********************************page_1*************************************/
+.ext_list>li, .ext_box{ overflow:hidden;}
+.ext_list>li>figure, .ext_box>figure{ float:left;}
+.ext_list>li>div, .ext_box>div{overflow:hidden;}
+
+.slider_box{margin-bottom: 10px;}
+
+.welcome img, .staff img, .rooms1 img, .book img, .blog img, .gallery img{border-radius: 500px;}
+
+.rooms{background: url('../images/stripe.png') 0 bottom repeat-x;padding-bottom: 82px;}
+.room h3{margin-bottom: 6px;}
+.room{text-align: center;font-size: 12px;line-height: 16px;color: #bbbbbb;}
+.room .img_wrap{display: inline-block;border: 1px solid transparent;position: relative;margin-bottom: 21px;}
+.room .img_wrap em{position: absolute;left: 0px;top: 0px;right: 0px;bottom: 0px;border-radius:  500px;border: 17px solid transparent;}
+.room img, .room .img_wrap{border-radius:  500px;}
+
+.room .img_wrap:hover{border-color: #efefef;}
+.room .img_wrap:hover em{border-color: #fff;}
+
+.m_bot1{margin-bottom: 63px;}
+.m_bot2{margin-bottom: 67px;}
+.m_bot3{margin-bottom: 22px;}
+
+.welcome{}
+.welcome>div{padding-top: 5px;}
+.welcome>figure{margin: 0 21px 0 0;}
+
+.link1{font-style: italic;text-decoration: underline;color: #1d1d1d;}
+.link2{font-size: 18px; line-height: 22px; color: #1e1e1e;display: inline-block;background: url('../images/marker_link.png') 0 7px no-repeat; padding-left: 25px;}
+
+.link1:hover, .link2:hover{color: #c6c5c5;}
+
+.events>li{margin-bottom: 13px;}
+.events>li>div{padding-top: 3px;}
+.events>li>figure{width: 86px;}
+.events>li>figure a{display: block;width: 70px;background: #e4e4e4;text-align: center;padding:  23px 0;margin: 0 0 0 0;border-radius:  500px;}
+.events>li>figure a:hover{background: #1d1d1d;}
+.events>li time{font-size: 22px;letter-spacing: -1px;line-height: 26px;color: #1e1e1e;display: block;margin-bottom: 1px;}
+
+.black{color: #1e1e1e;}
+/*********************************page_2*************************************/
+.about{margin-bottom: 15px;}
+.about>div{padding-top: 11px;}
+.about>figure{margin: 0 5px 0 0;}
+
+.box1{margin-bottom: 65px;}
+
+.staff{text-align: center;}
+.staff img{margin-bottom: 21px;}
+
+.hotel_accom{}
+.hotel_accom>li{background: url('../images/stripe1.png') 0 bottom repeat-x;padding-bottom: 22px;margin-bottom: 21px;}
+.hotel_accom .last, .rules .last{background: none;}
+/*********************************page_3*************************************/
+.rooms1{margin-bottom: 36px;}
+.rooms1 a, .gallery a{display: block;position: relative;overflow: hidden;}
+.rooms1 a em, .gallery a em{display: block;position: absolute;background: url('../images/magnify.png') no-repeat;width: 45px;height: 60px;left: 50%;top: -100%;margin: -30px 0 0 -23px;}
+.rooms1 a:hover em, .gallery a:hover em{top: 50%;}
+.rooms1 .touch, .gallery .touch{margin-top: 8px;}
+
+.rules>li{background: url('../images/stripe1.png') bottom center repeat-x;padding-bottom: 16px;margin-bottom: 23px;}
+.rules>li>figure{width: 71px;padding: 6px 0 6px;text-align: center;background: #e4e4e4;font-size: 48px; line-height: 58px; color: #fff;margin: 0 11px 0 0;border-radius:  500px;}
+
+.book{}
+.book>div{}
+.book>figure{margin: 3px 9px 0 0;}
+/*********************************page_4*************************************/
+.blog{margin-bottom: 46px;}
+.blog .info{margin-bottom: 30px;}
+.blog>li{margin-bottom: 71px;}
+.blog h2{margin-bottom: 45px;}
+.blog .admin_link{font-weight: bold;color: #5a5a5a;}
+.blog .admin_link:hover{color: #000;}
+.blog .comments{font-style: italic;color: #1e1e1e;font-style: italic;text-decoration: underline;}
+.blog .comments:hover{text-decoration: none;}
+.img_blog{}
+.img_blog>div{}
+.img_blog>figure{margin: 5px 16px 0 0;}
+
+.categories{margin-bottom: 56px;}
+/*********************************page_5*************************************/
+.gallery{text-align: center;}
+.gallery a{margin-bottom: 25px;display: block;}
+
+/*================================>> page_6 <<========================================*/
+
+.map_box{}
+.map_box>div{}
+.map_box>figure{margin: 0 16px 0 0;}
+
+/* Contact form */
+#contact-form {padding:9px 0 0 0;}
+#contact-form .success {width:246px;  padding:10px;}
+#contact-form textarea, #contact-form input {margin:0;font-size:13px; border:1px solid #cecece; color:#050505; padding:8px 11px 5px;width: 276px;outline:none; position:relative; font-family:Arial, Helvetica, sans-serif;background:#fff;border-radius: 7px;}
+#contact-form textarea {overflow:auto;height:126px;resize:none; float:left; margin: 0 0 0 0;}	
+#contact-form label {display:block; min-height:50px; overflow:hidden;}	
+#contact-form label.message { display:block; padding-bottom:0; }
+#contact-form .button {margin-left:8px;}	
+#contact-form .error, #contact-form .empty, #contact-form .success {display:none;}	
+#contact-form .error, #contact-form .empty {text-align:left; color:red; font-size:11px; clear:both;}
+#contact-form .buttons2 {overflow:hidden;text-align:right; position:relative; clear:both; padding-top:31px;}
+#contact-form .buttons2 a {
+	cursor:pointer;
+	margin-top:0;
+	text-align:center;
+}
+#contact-form span{ display:block; margin: 0px 0 0 5px;}
+
+.map_wrapper{overflow:hidden;display:inline-block;margin-bottom:26px;}
+#map_canvas {
+   width:337px;
+   border-radius: 500px;
+   height:337px;
+}
+.adress{}
+.adress span{ display:inline-block; width:73px;}
+.adress dt{ margin-bottom:18px;}
+
+.demo{}
+.demo:hover{ text-decoration:underline;}
+
+/****************************footer************************/
+footer {padding:0px 0 20px;font-weight: bold;}
+.footer{background: #1e1e1e;font-size: 10px;color: #7a7979;text-transform: uppercase;padding: 7px 0 9px 16px;}
+footer a{color: #c9c9c9;}
+footer a:hover{color: #fff;}
+/*==================================RESPONSIVE LAYOUTS===============================================*/
+@media only screen and (max-width: 995px) {
+ body{min-width:768px;}
+ .flexslider{height: 291px;}
+ header{padding-top: 30px;}
+ .cont_pad, #content{padding: 30px 0 30px !important;}
+ .rooms{padding-bottom: 40px;}
+ .m_bot1, .m_bot2{margin-bottom: 30px;}
+ .welcome>div{overflow: visible;}
+ #contact-form textarea, #contact-form input{width: 214px;}
+ 
+ 
+}
+
+@media only screen and (max-width: 767px) {
+ body{min-width:420px;}
+ .flexslider{height: 181px;}
+ header h1 span{display: none;}
+ .about>div{overflow: visible;}
+ .box1{margin-bottom: 40px;}
+ .staff img, .rooms1 img, .gallery img, #map_canvas{width: 100%;}
+ .map_wrapper{display: block;}
+ .about>figure{float: none;text-align: center;}
+ .map_box>figure{float: none;width: 100%;}
+ #contact-form textarea, #contact-form input{width: 395px;}
+ .blog .admin_link, .blog .comments{display: inline-block;}
+ 
+}
+
+@media only screen and (max-width: 479px) {
+  body{min-width:300px;}
+  .flexslider{height: 141px;}
+  header h1{float: none;}
+  header .contact{margin-top: 20px;float: none;}
+  header .email{margin-top: 20px;float: none;}
+ .book>div{overflow: visible;}
+ #contact-form textarea, #contact-form input{width: 276px;}
+.img_blog>figure{float: none;margin:  0 0 15px;text-align: center;}
+.popup-wnd { width: 250px !important; }
+}

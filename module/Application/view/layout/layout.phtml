@@ -1,0 +1,187 @@
+<?php echo $this->doctype(); ?>
+
+<?php $hasSlideShow = (count( $this->slides ) > 0 ? true : false); ?>
+
+<?php if($this->actionName == null)
+{
+    $this->actionName = "index";
+}
+?>
+
+<?php
+  header("Cache-Control: max-age=3600"); //30days (60sec * 60min * 24hours * 30days)
+?>
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <title>Bellavista Brissago</title>
+    <meta charset="utf-8" content=""/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Cache-control" content="public">
+    <link rel="icon" href="/images/favicon-bb.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="/images/favicon-bb.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="/js/ext/resources/css/ext-all-notheme.css" />
+    <link rel="stylesheet" type="text/css" href="/js/ext/resources/css/xtheme-gray.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css"/>
+
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/superfish.js"></script>
+	 <script type="text/javascript" src="/js/jquery.responsivemenu.js"></script>
+	 <script type="text/javascript" src="/js/jquery.mobilemenu.js"></script>
+	 <?php if($hasSlideShow == true) 
+	 {
+	   echo "<script type='text/javascript' src='/js/jquery.flexslider.js'></script>";
+	   echo "<script type='text/javascript' src='/js/jquery.easing.1.3.js'></script>";
+	 }
+	 ?>
+	 <script type="text/javascript" src="/js/script.js"></script>
+	 <script type="text/javascript" src="/js/ext/adapter/ext/ext-base.js"></script>
+	 <script type="text/javascript" src="/js/ext/ext-all.js"></script>	 
+	 <script type="text/javascript">
+	     $(window).load(function () {
+			 var hasSlider = true;
+			 <?php if($hasSlideShow == false)  {
+			     echo "hasSlider = false;";
+			 }
+			 ?>
+
+			 if(hasSlider == true) {  
+    	         $('.flexslider').flexslider({
+    	             animation: "fade",
+    	             slideshowSpeed: 4000,
+    	             animationSpeed: 2000,
+                     initDelay: 0,
+                     controlNav: false,
+                     prevText: "",
+                     nextText: ""
+                 });
+			 }
+         });
+
+         Ext.onReady(function () {
+             Ext.BLANK_IMAGE_URL = '/images/s.gif';
+
+         });
+
+	 </script>
+	<!--[if lt IE 8]>
+   <div style=' clear: both; text-align:center; position: relative;'>
+     <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+       <img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+    </a>
+  </div>
+<![endif]-->
+    <!--[if lt IE 9]>
+   	<script type="text/javascript" src="js/html5.js"></script>
+    	<link rel="stylesheet" type="text/css" media="screen" href="css/ie.css">
+    <![endif]-->
+</head>
+<body>
+<div class="container">
+<!--==============================header=================================-->
+   	<header>
+	  <div class="twelve columns">
+        <h1><a class="logo" href="/public">Albergo Bellavista</a> <span>Albergo Ristorante <span>Brissago</span></span></h1>
+      </div>
+      <div class="four columns">
+        <div>
+            <div class="lang-select">
+                <ul>
+                    <li class="<?php echo "de" == $this->culture ? "active" : "" ?>"><a href="<?php echo "/public/de/home/".$this->actionName ?>">de</a></li>
+                    <li class="<?php echo "it" == $this->culture ? "active" : "" ?>"><a href="<?php echo "/public/it/home/".$this->actionName?>">it</a></li>
+                    <li class="<?php echo "en" == $this->culture ? "active" : "" ?>"><a href="<?php echo "/public/en/home/".$this->actionName?>">en</a></li>
+                </ul>                
+            </div>
+            <div class="contact">
+              +41 91 793 12 22
+            </div>
+            <div class="email">
+                <a href="mailto:reservation@bellavista-brissago.ch?subject=Reservationsanfrage (Web)">reservation@bellavista-brissago.ch</a>
+            </div>
+        </div>
+      </div> 
+      <div class="clear"></div>
+    </header>
+<?php echo $this->message; ?>
+    <div class="sixteen columns">
+      <nav>
+        <ul class="sf-menu">
+          <li class="<?php echo "index" == $this->actionName ? "current" : "" ?>"><a href="<?php echo "/public/".$this->culture."/home";?>" ><?php echo $this->translate("Navbar._MainLayout.nav_home"); ?></a></li>
+          <li class="<?php echo "hotel" == $this->actionName ? "current" : "" ?>"><a href="<?php echo "/public/".$this->culture."/home/hotel";?>" ><?php echo $this->translate("Navbar._MainLayout.nav_hotel"); ?></a></li>
+          <li class="<?php echo "rooms" == $this->actionName ? "current" : "" ?>"><a href="<?php echo "/public/".$this->culture."/home/rooms";?>" ><?php echo $this->translate("Navbar._MainLayout.nav_rooms"); ?></a></li>
+          <li class="<?php echo "restaurant" == $this->actionName ? "current" : "" ?>"><a href="<?php echo "/public/".$this->culture."/home/restaurant";?>" ><?php echo $this->translate("Navbar._MainLayout.nav_restaurant"); ?></a></li>
+          <li class="<?php echo "booking" == $this->actionName ? "current" : "" ?>"><a href="<?php echo "/public/".$this->culture."/home/booking";?>" ><?php echo $this->translate("Navbar._MainLayout.nav_booking"); ?></a></li>
+          <li class="<?php echo "about" == $this->actionName ? "current" : "" ?>"><a href="<?php echo "/public/".$this->culture."/home/about";?>" ><?php echo $this->translate("Navbar._MainLayout.nav_about"); ?></a></li>
+       </ul>
+       <div class="clear"></div>
+      </nav>
+    </div>
+
+<?php
+    if($hasSlideShow == true)
+    {
+echo <<<END
+        <div class="wrapper slider_box">
+        <div class="sixteen columns">
+        <div class="flexslider">
+        <ul class="slides">
+END;
+
+        foreach ($this->slides as $key => $value)
+        {
+        	echo "<li>";
+            echo "<img src='$key' alt='$this->translate($value)'/>";
+            $valTranslated = $this->translate($value); 
+            if ($value !== null && ltrim($valTranslated) != '')
+        	{
+        		echo "<p class='flex-caption image-caption'>";
+                echo $valTranslated;
+                echo "</p>";
+        	}
+        	echo "</li>";
+        }
+echo <<<END
+        </ul>
+        </div>
+        </div>
+        </div>
+END;
+    } 
+?>
+    
+    <div class="clear"></div>
+<!--==============================content================================-->
+    <section id="content" class="cont_pad">
+      <div class="sixteen columns">
+        <?php echo $this->content; ?>
+      </div>
+    </section>
+
+    <div class="clear"></div>
+<!--==============================footer=================================-->
+    <footer>
+      <div class="wrapper">
+        <div class="sixteen columns">
+          <div class="footer">
+            Albergo Ristorante BELLAVISTA - Casella postale 661 - CH-6614 Brissago TI - Svizzera
+          </div>
+        </div>
+      </div>
+    </footer>
+</div>
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-48953711-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+</body>
+</html>

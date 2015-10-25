@@ -1,0 +1,108 @@
+<?php echo $this->doctype(); ?>
+
+<?php if($this->actionName == null)
+{
+    $this->actionName = "index";
+}
+?>
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <title>Bellavista Brissago</title>
+    <meta charset="utf-8" content=""/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="icon" href="/images/favicon-bb.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="/images/favicon-bb.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="/js/ext/resources/css/ext-all-notheme.css" />
+    <link rel="stylesheet" type="text/css" href="/js/ext/resources/css/xtheme-gray.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css"/>
+
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/superfish.js"></script>
+	 <script type="text/javascript" src="/js/jquery.responsivemenu.js"></script>
+	 <script type="text/javascript" src="/js/jquery.mobilemenu.js"></script>
+	 <script type="text/javascript" src="/js/script.js"></script>
+	<!--[if lt IE 8]>
+   <div style=' clear: both; text-align:center; position: relative;'>
+     <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+       <img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+    </a>
+  </div>
+<![endif]-->
+    <!--[if lt IE 9]>
+   	<script type="text/javascript" src="js/html5.js"></script>
+    	<link rel="stylesheet" type="text/css" media="screen" href="css/ie.css">
+    <![endif]-->
+</head>
+<body>
+<div class="container">
+<!--==============================header=================================-->
+   	<header>
+	  <div class="twelve columns">
+        <h1><a class="logo" href="/">Albergo Bellavista</a> <span>Albergo Ristorante <span>Brissago</span></span></h1>
+      </div>
+      <div class="four columns">
+        <div>
+            <div class="lang-select">
+                <ul>
+                    <li class="<?php echo "de" == $culture ? "active" : "" ?>"><a href="<?php echo "/public/de/home/".$this->actionName?>">de</a></li>
+                    <li class="<?php echo "it" == $culture ? "active" : "" ?>"><a href="<?php echo "/public/it/home/".$this->actionName?>">it</a></li>
+                    <li class="<?php echo "en" == $culture ? "active" : "" ?>"><a href="<?php echo "/public/en/home/".$this->actionName?>">en</a></li>
+                </ul>                
+            </div>
+            <div class="contact">
+              +41 91 793 12 22
+            </div>
+            <div class="email">
+                <a href="mailto:reservation@bellavista-brissago.ch">reservation@bellavista-brissago.ch</a>
+            </div>
+        </div>
+      </div> 
+      <div class="clear"></div>
+    </header>
+
+    <div class="sixteen columns">
+      <nav>
+        <ul class="sf-menu">
+        <li></li>
+       </ul>
+       <div class="clear"></div>
+      </nav>
+    </div>
+    
+    <div class="clear"></div>
+<!--==============================content================================-->
+    <section id="content" class="cont_pad">
+      <div class="sixteen columns">
+        <?php echo $this->content; ?>
+      </div>
+    </section>
+
+    <div class="clear"></div>
+<!--==============================footer=================================-->
+    <footer>
+      <div class="wrapper">
+        <div class="sixteen columns">
+          <div class="footer">
+            Albergo Ristorante BELLAVISTA - Casella postale 661 - CH-6614 Brissago TI - Svizzera
+          </div>
+        </div>
+      </div>
+    </footer>
+</div>
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-48953711-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+</body>
+</html>

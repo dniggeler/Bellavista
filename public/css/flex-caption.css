@@ -1,0 +1,12 @@
+.flexslider .slides li {
+    position:relative;
+}
+
+.flex-caption 
+{
+    font-size: 1.2em;
+    position:absolute;
+    bottom:0;
+    background:rgba(0, 0, 0,0.6);
+    z-index:1;padding:10px;
+ }

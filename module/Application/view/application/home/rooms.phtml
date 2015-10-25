@@ -1,0 +1,101 @@
+<h2><?php echo $this->translate("LocalResources.ContentPage.slide_rooms_titel"); ?></h2>
+
+<p class="MyText">
+<?php echo $this->translate("LocalResources.ContentPage.slide_rooms_greetings"); ?>
+</p>
+
+<p class="MyText">
+<?php echo $this->translate("LocalResources.ContentPage.slide_rooms_desc"); ?>
+</p>
+
+<a class="popup-lnk" id="lnkPriceList">
+    <img alt="Preisliste" src="/images/icons/pointer.jpg" height="18px" />
+    <?php echo $this->translate("LocalResources.ContentPage.slide_rooms_lnk_preise"); ?>
+</a>
+<br />
+<a class="popup-lnk" id="lnkStornierung">
+    <img alt="Stornierung" src="/images/icons/pointer.jpg" height="18px"/>
+    <?php echo $this->translate("LocalResources.ContentPage.slide_rooms_lnk_stornierung"); ?>
+</a>
+<br />
+<br />
+
+<div class="hidden_content" >
+    <div id="pricelist">
+            <b><?php echo $this->translate("LocalResources.ContentPage.slide_rooms_popup_zimmer1_desc"); ?></b>
+            <br />
+            <?php echo $this->translate("LocalResources.ContentPage.slide_rooms_popup_zimmer1_price"); ?>
+            <br />
+            <br />
+
+            <b><?php echo $this->translate("LocalResources.ContentPage.slide_rooms_popup_zimmer2_desc"); ?></b>
+            <br />
+            <?php echo $this->translate("LocalResources.ContentPage.slide_rooms_popup_zimmer2_price"); ?>
+            <br />
+            <br />
+
+            <b><?php echo $this->translate("LocalResources.ContentPage.slide_rooms_popup_zimmer3_desc"); ?></b>
+            <br />
+            <?php echo $this->translate("LocalResources.ContentPage.slide_rooms_popup_zimmer3_price"); ?>
+            <br />
+            <br />
+            <p><?php echo $this->translate("LocalResources.ContentPage.slide_rooms_popup_footer_desc"); ?></p>
+    </div>
+
+    <div id="stornierung">
+        <p><?php echo $this->translate("LocalResources.ContentPage.slide_rooms_popup_stornierung_intro"); ?></p>
+        <ul class="list1">
+            <li><?php echo $this->translate("LocalResources.ContentPage.slide_rooms_popup_stornierung_item1"); ?></li>
+            <li><?php echo $this->translate("LocalResources.ContentPage.slide_rooms_popup_stornierung_item2"); ?></li>
+            <li><?php echo $this->translate("LocalResources.ContentPage.slide_rooms_popup_stornierung_item3"); ?></li>
+            <li><?php echo $this->translate("LocalResources.ContentPage.slide_rooms_popup_stornierung_item4"); ?></li>
+        </ul>
+        
+        
+        
+        
+    </div>
+
+</div>
+
+
+<p class="MyText">
+<?php echo $this->translate("LocalResources.ContentPage.slide_rooms_bezahlung"); ?>
+</p>	
+
+
+
+<script type="text/javascript">
+
+    Ext.ns('BellavistaUI');
+
+    BellavistaUI.StornierungPopup = new Ext.Window({
+        cls: 'popup-wnd',
+        title: '<?php echo $this->translate("LocalResources.ContentPage.slide_rooms_popup_title_stornierung"); ?>',
+        layout: 'fit',
+        closeAction: 'hide',
+        resizeable: false,
+        modal: true,
+        contentEl: 'stornierung'
+    });
+
+    BellavistaUI.PriceListPopup = new Ext.Window({
+        cls: 'popup-wnd',
+        title: '<?php echo $this->translate("LocalResources.ContentPage.slide_rooms_popup_title_preise"); ?>',
+        layout: 'fit',
+        closeAction: 'hide',
+        resizeable: false,
+        modal: true,
+        contentEl: 'pricelist'
+    });
+    $(function () {
+
+        $("#lnkPriceList").click(function () {
+            BellavistaUI.PriceListPopup.show();
+        });
+        $("#lnkStornierung").click(function () {
+            BellavistaUI.StornierungPopup.show();
+        });
+    });
+</script>
+

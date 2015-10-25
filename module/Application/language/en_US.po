@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZendSkeletonApplication\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-25 23:20+0100\n"
+"PO-Revision-Date: 2015-09-24 22:54+0200\n"
+"Last-Translator: Evan Coury <me@evancoury.com>\n"
+"Language-Team: ZF Contibutors <zf-devteam@zend.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: translate\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../view/application/home/DummySliderCaptions.phtml:2
+msgid "LocalResources.ContentPage.slide_start_imagecaption_1"
+msgstr "Welcome to the Ristorante Albergo Bellavista in Brissago"
+
+#: ../view/application/home/DummySliderCaptions.phtml:3
+msgid "LocalResources.ContentPage.slide_start_imagecaption_2"
+msgstr ""
+"<i>„The world belongs to the one who knows how to enjoy.“</i> - Giacomo "
+"Leopardi"
+
+#: ../view/application/home/DummySliderCaptions.phtml:4
+msgid "LocalResources.ContentPage.slide_start_imagecaption_3"
+msgstr ""
+"<i>\"I’m a man of simple tastes. I’m always satisfied with the best.\"</i> - "
+"Oscar Wilde."
+
+#: ../view/application/home/DummySliderCaptions.phtml:5
+msgid "LocalResources.ContentPage.slide_start_imagecaption_4"
+msgstr "Enjoy the breathtaking view from our terrace"
+
+#: ../view/application/home/DummySliderCaptions.phtml:6
+msgid "LocalResources.ContentPage.slide_start_imagecaption_5"
+msgstr "With a view to Ascona"
+
+#: ../view/application/home/DummySliderCaptions.phtml:8
+msgid "LocalResources.ContentPage.slide_hotel_imagecaption_1"
+msgstr ""
+"150 metres above the lake you will find a small but charming guesthouse with "
+"a family atmosphere"
+
+#: ../view/application/home/DummySliderCaptions.phtml:9
+msgid "LocalResources.ContentPage.slide_hotel_imagecaption_2"
+msgstr " With a swimming pool"
+
+#: ../view/application/home/DummySliderCaptions.phtml:10
+msgid "LocalResources.ContentPage.slide_hotel_imagecaption_3"
+msgstr " A terrace with breathtaking views"
+
+#: ../view/application/home/DummySliderCaptions.phtml:11
+msgid "LocalResources.ContentPage.slide_hotel_imagecaption_4"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:12
+msgid "LocalResources.ContentPage.slide_hotel_imagecaption_5"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:14
+msgid "LocalResources.ContentPage.slide_rooms_imagecaption_1"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:15
+msgid "LocalResources.ContentPage.slide_rooms_imagecaption_2"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:16
+msgid "LocalResources.ContentPage.slide_rooms_imagecaption_3"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:17
+msgid "LocalResources.ContentPage.slide_rooms_imagecaption_4"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:19
+msgid "LocalResources.ContentPage.slide_restaurant_imagecaption_1"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:20
+msgid "LocalResources.ContentPage.slide_restaurant_imagecaption_2"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:21
+msgid "LocalResources.ContentPage.slide_restaurant_imagecaption_3"
+msgstr "Breakfast buffet"
+
+#: ../view/application/home/DummySliderCaptions.phtml:22
+msgid "LocalResources.ContentPage.slide_restaurant_imagecaption_4"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:24
+msgid "LocalResources.ContentPage.slide_about_imagecaption_1"
+msgstr "Gabriela and Urs Niggeler"
+
+#: ../view/application/home/DummySliderCaptions.phtml:25
+msgid "LocalResources.ContentPage.slide_about_imagecaption_2"
+msgstr " "
+
+#: ../view/application/home/DummySliderCaptions.phtml:26
+msgid "LocalResources.ContentPage.slide_about_imagecaption_3"
+msgstr " "
+
+#: ../view/application/home/about.phtml:1
+msgid "LocalResources.ContentPage.slide_about_titel"
+msgstr "A Very Warm Welcome from the Niggeler Family!"
+
+#: ../view/application/home/about.phtml:3
+msgid "LocalResources.ContentPage.slide_about_text_vision"
+msgstr ""
+"Only the very best awaits you at Hotel Bellavista Brissago in sunny Ticino. "
+"Experience sheer luxury – at affordable prices. We demonstrate that luxury "
+"doesn’t have to be expensive. With our credo \"SMART LUXURY\" we offer you a "
+"unique ambiance. Your personal needs and requirements are very close to our "
+"heart."
+
+#: ../view/application/home/about.phtml:4
+msgid "LocalResources.ContentPage.slide_about_text_1"
+msgstr "We care for you to feel at home in this family-like environment:"
+
+#: ../view/application/home/about.phtml:7
+msgid "LocalResources.ContentPage.slide_about_text_2"
+msgstr "Gabriela Niggeler and Andrea Schrabeck front of house"
+
+#: ../view/application/home/about.phtml:8
+msgid "LocalResources.ContentPage.slide_about_text_3"
+msgstr "Urs Niggeler and Alessandro Cannone in the kitchen"
+
+#: ../view/application/home/about.phtml:9
+msgid "LocalResources.ContentPage.slide_about_text_4"
+msgstr "Francesca Melon and Gloria Ferreira in housekeeping"
+
+#: ../view/application/home/booking.phtml:1
+msgid "LocalResources.ContentPage.slide_booking_titel"
+msgstr "Reservations"
+
+#: ../view/application/home/booking.phtml:10
+msgid "LocalResources.ContentPage.slide_about_contact_phone"
+msgstr "Tel.:"
+
+#: ../view/application/home/booking.phtml:11
+msgid "LocalResources.ContentPage.slide_about_contact_fax"
+msgstr "Fax:"
+
+#: ../view/application/home/booking.phtml:16
+msgid "LocalResources.ContentPage.slide_about_contact"
+msgstr "Please call us or send us an "
+
+#: ../view/application/home/booking.phtml:17
+msgid "LocalResources.ContentPage.slide_about_contact_email"
+msgstr "Email"
+
+#: ../view/application/home/hotel.phtml:1
+msgid "LocalResources.ContentPage.slide_hotel_titel"
+msgstr "Hotel"
+
+#: ../view/application/home/hotel.phtml:3
+msgid "LocalResources.ContentPage.slide_hotel_text_1"
+msgstr ""
+"Relax, allow yourself to get pampered. Sit on the terrace and gaze across "
+"Lago Maggiore immersing into a different world, forgetting about space and "
+"time; be yourself."
+
+#: ../view/application/home/index.phtml:1
+msgid "LocalResources.ContentPage.slide_start_titel"
+msgstr "Our credo is ‘SMART LUXURY‘"
+
+#: ../view/application/home/index.phtml:3
+msgid "LocalResources.ContentPage.slide_start_text_1"
+msgstr ""
+"Enjoy the stunning views from our terraces and let us treat you in our "
+"restaurant with carefully selected culinary delights. The Bellavista "
+"Brissago gives you a warm welcome!"
+
+#: ../view/application/home/restaurant.phtml:1
+msgid "LocalResources.ContentPage.slide_restaurant_titel"
+msgstr "We will indulge you even in the absence of any stars"
+
+#: ../view/application/home/restaurant.phtml:3
+msgid "LocalResources.ContentPage.slide_restaurant_text_1"
+msgstr ""
+"Our menu with a number of delicious local dishes has earned quite a "
+"reputation for itself in the area. Combine these culinary delights with an "
+"exquisite bottle from our wine cellar which has a lot to offer, not least "
+"from some exceptional local producers in the surrounding vineyards."
+
+#: ../view/application/home/restaurant.phtml:7
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen"
+msgstr "Menu"
+
+#: ../view/application/home/restaurant.phtml:11
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_spezial"
+msgstr "Braised House Specialities"
+
+#: ../view/application/home/restaurant.phtml:16
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_hit"
+msgstr "Game Specialties"
+
+#: ../view/application/home/restaurant.phtml:21
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
+msgstr "Warm and Vegetarian Starters"
+
+#: ../view/application/home/restaurant.phtml:26
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_salat"
+msgstr "Salads and Cold Dishes"
+
+#: ../view/application/home/restaurant.phtml:33
+msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_titel"
+msgstr "Wine List"
+
+#: ../view/application/home/restaurant.phtml:37
+msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_ch_rot"
+msgstr "Swiss Red Wine"
+
+#: ../view/application/home/restaurant.phtml:42
+msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_it_rot"
+msgstr "Italian Red Wine"
+
+#: ../view/application/home/restaurant.phtml:47
+msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_weisse"
+msgstr "White Wine"
+
+#: ../view/application/home/review.phtml:1
+msgid "LocalResources.ContentPage.slide_review_titel"
+msgstr "Review"
+
+#: ../view/application/home/rooms.phtml:1
+msgid "LocalResources.ContentPage.slide_rooms_titel"
+msgstr "Rooms"
+
+#: ../view/application/home/rooms.phtml:4
+msgid "LocalResources.ContentPage.slide_rooms_greetings"
+msgstr ""
+"Dear guests and visitors</br>Thanks to the Swiss National Bank we reduced "
+"the prices for you!"
+
+#: ../view/application/home/rooms.phtml:8
+msgid "LocalResources.ContentPage.slide_rooms_desc"
+msgstr ""
+"None of our rooms feature TV nor telephone allowing for maximum peace and "
+"relaxation. We provide free Internet/WiFi access."
+
+#: ../view/application/home/rooms.phtml:13
+msgid "LocalResources.ContentPage.slide_rooms_lnk_preise"
+msgstr "Room Rates 2014"
+
+#: ../view/application/home/rooms.phtml:18
+msgid "LocalResources.ContentPage.slide_rooms_lnk_stornierung"
+msgstr "Cancellation Policy"
+
+#: ../view/application/home/rooms.phtml:25
+msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer1_desc"
+msgstr "Double room with shower/WC, balcony with lake views"
+
+#: ../view/application/home/rooms.phtml:27
+msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer1_price"
+msgstr ""
+"Prices: 1 night CHF 198.00; 2 - 3 nights CHF 178.00/night; 4 - 6 nights CHF "
+"158.00/night; from 7 nights CHF 148.00/night"
+
+#: ../view/application/home/rooms.phtml:31
+msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer2_desc"
+msgstr "Double room with shower/WC, garden patio with lake views"
+
+#: ../view/application/home/rooms.phtml:33
+msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer2_price"
+msgstr ""
+"Prices: 1 night CHF 178.00; 2 - 3 nights CHF 168.00/night; 4 - 6 nights CHF "
+"148.00/night; from 7 nights CHF 138.00/night"
+
+#: ../view/application/home/rooms.phtml:37
+msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer3_desc"
+msgstr "Double room with shower/WC, lake views"
+
+#: ../view/application/home/rooms.phtml:39
+msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer3_price"
+msgstr ""
+"Prices: 1 night CHF 178.00; 2 - 3 nights CHF 158.00/night; 4 - 6 nights CHF "
+"138.00/night; from 7 nights CHF 128.00/night"
+
+#: ../view/application/home/rooms.phtml:42
+msgid "LocalResources.ContentPage.slide_rooms_popup_footer_desc"
+msgstr ""
+"<u>Half Board</u>: We offer a half board option with a daily changing three "
+"course dinner for CHF 38.00 per person per day.<br />Dogs welcome (no food "
+"included) CHF 12.00"
+
+#: ../view/application/home/rooms.phtml:46
+msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_intro"
+msgstr ""
+"If you find yourself in a situation where you have to cancel your booking or "
+"shorten your stay with us, please note the following:"
+
+#: ../view/application/home/rooms.phtml:48
+msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_item1"
+msgstr "A cancellation can only be accepted in writing."
+
+#: ../view/application/home/rooms.phtml:49
+msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_item2"
+msgstr ""
+"Unless otherwise agreed there is no charge for cancellations up to one week "
+"prior to the start of your booking."
+
+#: ../view/application/home/rooms.phtml:50
+msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_item3"
+msgstr ""
+"From six days prior to the start of your booking a charge of 50% of the "
+"package price is due."
+
+#: ../view/application/home/rooms.phtml:51
+msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_item4"
+msgstr ""
+"From three days prior to the start of your booking 100% of the package price "
+"becomes due (unless the room can be sold on to another guest)."
+
+#: ../view/application/home/rooms.phtml:63
+msgid "LocalResources.ContentPage.slide_rooms_bezahlung"
+msgstr ""
+"MAESTRO, MASTERCARD, VISA, POSTCARD and REKA are welcome as payment methods."
+
+#: ../view/application/home/rooms.phtml:74
+msgid "LocalResources.ContentPage.slide_rooms_popup_title_stornierung"
+msgstr "Cancellation Policy"
+
+#: ../view/application/home/rooms.phtml:84
+msgid "LocalResources.ContentPage.slide_rooms_popup_title_preise"
+msgstr "Room Rates"
+
+#: ../view/application/home/specials.phtml:1
+msgid "LocalResources.ContentPage.slide_specials_titel"
+msgstr "Special Offers"
+
+#: ../view/application/home/specials.phtml:4
+msgid "LocalResources.ContentPage.slide_specials_subtitel1"
+msgstr "Colorful Brissago - Getaway"
+
+#: ../view/application/home/specials.phtml:7
+msgid "LocalResources.ContentPage.slide_specials_text1_line1"
+msgstr "from October 13 to  October 26, 2014"
+
+#: ../view/application/home/specials.phtml:9
+msgid "LocalResources.ContentPage.slide_specials_text1_line2"
+msgstr "3 nights with breakfast and dinner"
+
+#: ../view/application/home/specials.phtml:11
+msgid "LocalResources.ContentPage.slide_specials_text1_line3"
+msgstr "for CHF 330.00 per person"
+
+#: ../view/application/home/specials.phtml:17
+msgid "LocalResources.ContentPage.slide_specials_subtitel2"
+msgstr "Hot wine punch - Getaway "
+
+#: ../view/application/home/specials.phtml:20
+msgid "LocalResources.ContentPage.slide_specials_text2_line1"
+msgstr "from November 11 to December 12, 2014"
+
+#: ../view/application/home/specials.phtml:22
+msgid "LocalResources.ContentPage.slide_specials_text2_line2"
+msgstr "3 nights with breakfast and dinner"
+
+#: ../view/application/home/specials.phtml:24
+msgid "LocalResources.ContentPage.slide_specials_text2_line3"
+msgstr "for CHF 330.00 per person"
+
+#: ../view/error/404.phtml:3
+msgid "Page not found"
+msgstr "Page not found"
+
+#: ../view/error/404.phtml:5 ../view/error/index.phtml:5
+msgid "Please use "
+msgstr "Please use "
+
+#: ../view/error/index.phtml:3
+msgid "Unexpected error occurred."
+msgstr "Unexpected error occurred"
+
+#: ../view/layout/layout.phtml:110
+msgid "Navbar._MainLayout.nav_home"
+msgstr "Home"
+
+#: ../view/layout/layout.phtml:111
+msgid "Navbar._MainLayout.nav_hotel"
+msgstr "Hotel"
+
+#: ../view/layout/layout.phtml:112
+msgid "Navbar._MainLayout.nav_rooms"
+msgstr "Rooms"
+
+#: ../view/layout/layout.phtml:113
+msgid "Navbar._MainLayout.nav_restaurant"
+msgstr "Restaurant"
+
+#: ../view/layout/layout.phtml:114
+msgid "Navbar._MainLayout.nav_booking"
+msgstr "Booking"
+
+#: ../view/layout/layout.phtml:115
+msgid "Navbar._MainLayout.nav_about"
+msgstr "About us"
+
+#~ msgid "LocalResources.ContentPage.slide_hotel_text_2"
+#~ msgstr ""
+#~ "As an exception the Hotel Bellavista will be closed from 12th November to "
+#~ "20th November 2014."
+
+#~ msgid "LocalResources.ContentPage.slide_start_text_silv_1"
+#~ msgstr "Our "
+
+#~ msgid "LocalResources.ContentPage.slide_start_text_silv_2"
+#~ msgstr "New Year's Eve menu"
+
+#~ msgid "LocalResources.ContentPage.slide_start_text_silv_3"
+#~ msgstr " is available!"
+
+#~ msgid "LocalResources.ContentPage.slide_start_text_2_1"
+#~ msgstr "We have "
+
+#~ msgid "LocalResources.ContentPage.slide_start_text_2_2"
+#~ msgstr "special offers"
+
+#~ msgid "LocalResources.ContentPage.slide_start_text_2_3"
+#~ msgstr " for you!"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_wild"
+#~ msgstr "Game specialities"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_pasta"
+#~ msgstr "Pasta"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_vorschau"
+#~ msgstr "Seasonal Specialities"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_fitness"
+#~ msgstr "Fitness"
+
+#~ msgid "LocalResources.ContentPage.slide_references_titel"
+#~ msgstr "Review"
+
+#~ msgid "File"
+#~ msgstr "File"
+
+#~ msgid "Message"
+#~ msgstr "Message"
+
+#~ msgid "Stack trace"
+#~ msgstr "Stack trace"
+
+#~ msgid "No Exception available"
+#~ msgstr "No Exception available"
+
+#~ msgid "A 404 error occurred"
+#~ msgstr "A 404 error occurred"
+
+#~ msgid "We cannot determine at this time why a 404 was generated."
+#~ msgstr "We cannot determine at this time why a 404 was generated."
+
+#~ msgid "Controller"
+#~ msgstr "Controller"
+
+#~ msgid "resolves to %s"
+#~ msgstr "resolves to %s"

@@ -1,0 +1,9 @@
+/* Twitter */
+ #preloader{margin:0;padding:1em 1em 1em 3em;text-indent:10px;background:transparent url(../images/loader.gif) 1em center no-repeat}
+ #twitter li{background: url('../images/stripe1.png') 0 bottom repeat-x; padding-bottom: 23px;}
+ #twitter a{font-size: 13px;text-decoration: underline;color: #1e1e1e;font-style: italic;}
+ #twitter a:hover{text-decoration: none;}
+ #twitter .tweet_time{font-size: 14px;display: block;color: #504f4f;background: url('../images/tweet.png') 0 2px no-repeat;margin-bottom: 10px;padding-left: 25px;}
+ #twitter .tweet_time a{color: #504f4f;text-decoration: none;font-style: normal;font-size: 11px;}
+ #twitter .tweet_time a:hover{text-decoration: underline;}
+ .tweet_list>li{margin-bottom: 20px;}
