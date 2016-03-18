@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-25 23:20+0100\n"
-"PO-Revision-Date: 2015-09-24 22:54+0200\n"
+"POT-Creation-Date: 2016-03-18 18:52+0100\n"
+"PO-Revision-Date: 2016-03-18 18:52+0100\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contibutors <zf-devteam@zend.com>\n"
 "Language: en_US\n"
@@ -169,7 +169,7 @@ msgstr ""
 msgid "LocalResources.ContentPage.slide_start_titel"
 msgstr "Our credo is ‘SMART LUXURY‘"
 
-#: ../view/application/home/index.phtml:3
+#: ../view/application/home/index.phtml:5
 msgid "LocalResources.ContentPage.slide_start_text_1"
 msgstr ""
 "Enjoy the stunning views from our terraces and let us treat you in our "
@@ -197,12 +197,12 @@ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_spezial"
 msgstr "Braised House Specialities"
 
 #: ../view/application/home/restaurant.phtml:16
-msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_hit"
-msgstr "Game Specialties"
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
+msgstr "Soups and Fast Food"
 
 #: ../view/application/home/restaurant.phtml:21
-msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
-msgstr "Warm and Vegetarian Starters"
+msgid "LocalResources.ContentPage.slide_restaurant_karte_gourmetticker"
+msgstr "Gourmet Ticker"
 
 #: ../view/application/home/restaurant.phtml:26
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_salat"
@@ -401,6 +401,9 @@ msgstr "Booking"
 #: ../view/layout/layout.phtml:115
 msgid "Navbar._MainLayout.nav_about"
 msgstr "About us"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_hit"
+#~ msgstr "Game Specialties"
 
 #~ msgid "LocalResources.ContentPage.slide_hotel_text_2"
 #~ msgstr ""
