@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-18 18:48+0100\n"
-"PO-Revision-Date: 2016-03-18 18:51+0100\n"
+"PO-Revision-Date: 2016-05-10 22:30+0200\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -230,9 +230,7 @@ msgstr "Zimmer"
 
 #: ../view/application/home/rooms.phtml:4
 msgid "LocalResources.ContentPage.slide_rooms_greetings"
-msgstr ""
-"Liebe Gäste, Freunde und Restaurantbesucher</br>Dank unserer Nationalbank "
-"haben wir die Preise zu Ihren Gunsten gesenkt!"
+msgstr "Liebe Gäste, Freunde und Restaurantbesucher"
 
 #: ../view/application/home/rooms.phtml:8
 msgid "LocalResources.ContentPage.slide_rooms_desc"

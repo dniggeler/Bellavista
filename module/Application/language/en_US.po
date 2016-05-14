@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-18 18:52+0100\n"
-"PO-Revision-Date: 2016-03-18 18:52+0100\n"
+"PO-Revision-Date: 2016-05-10 22:30+0200\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contibutors <zf-devteam@zend.com>\n"
 "Language: en_US\n"
@@ -234,9 +234,7 @@ msgstr "Rooms"
 
 #: ../view/application/home/rooms.phtml:4
 msgid "LocalResources.ContentPage.slide_rooms_greetings"
-msgstr ""
-"Dear guests and visitors</br>Thanks to the Swiss National Bank we reduced "
-"the prices for you!"
+msgstr "Dear guests and visitors"
 
 #: ../view/application/home/rooms.phtml:8
 msgid "LocalResources.ContentPage.slide_rooms_desc"
