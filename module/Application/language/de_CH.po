@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-18 18:48+0100\n"
-"PO-Revision-Date: 2016-05-10 22:30+0200\n"
+"POT-Creation-Date: 2016-06-13 06:46+0200\n"
+"PO-Revision-Date: 2016-06-13 06:48+0200\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -165,7 +165,7 @@ msgstr ""
 msgid "LocalResources.ContentPage.slide_start_titel"
 msgstr "Unser Motto lautet: \"SMART LUXURY\""
 
-#: ../view/application/home/index.phtml:5
+#: ../view/application/home/index.phtml:3
 msgid "LocalResources.ContentPage.slide_start_text_1"
 msgstr ""
 "Geniessen Sie den atemberaubenden Ausblick auf unserer Terrasse und lassen "
@@ -193,8 +193,8 @@ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_spezial"
 msgstr "Geschmorte Hausspezialitäten"
 
 #: ../view/application/home/restaurant.phtml:16
-msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
-msgstr "Suppen, Fastfood"
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_embistro"
+msgstr "Euro2016 Bistro Karte"
 
 #: ../view/application/home/restaurant.phtml:21
 msgid "LocalResources.ContentPage.slide_restaurant_karte_gourmetticker"
@@ -395,6 +395,9 @@ msgstr "Buchen"
 #: ../view/layout/layout.phtml:115
 msgid "Navbar._MainLayout.nav_about"
 msgstr "Über uns"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
+#~ msgstr "Suppen, Fastfood"
 
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_hit"
 #~ msgstr "Wildspezialitäten"
