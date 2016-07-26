@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-06-13 06:49+0200\n"
-"PO-Revision-Date: 2016-06-13 06:49+0200\n"
+"POT-Creation-Date: 2016-07-26 23:13+0200\n"
+"PO-Revision-Date: 2016-07-26 23:14+0200\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contibutors <zf-devteam@zend.com>\n"
 "Language: en_US\n"
@@ -197,8 +197,8 @@ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_spezial"
 msgstr "Braised House Specialities"
 
 #: ../view/application/home/restaurant.phtml:16
-msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_embistro"
-msgstr "Euro2016 Bistro Menu"
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
+msgstr "Fast Food"
 
 #: ../view/application/home/restaurant.phtml:21
 msgid "LocalResources.ContentPage.slide_restaurant_karte_gourmetticker"
@@ -400,8 +400,8 @@ msgstr "Booking"
 msgid "Navbar._MainLayout.nav_about"
 msgstr "About us"
 
-#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
-#~ msgstr "Soups and Fast Food"
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_embistro"
+#~ msgstr "Euro2016 Bistro Menu"
 
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_hit"
 #~ msgstr "Game Specialties"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-06-13 06:49+0200\n"
-"PO-Revision-Date: 2016-06-13 06:49+0200\n"
+"POT-Creation-Date: 2016-07-26 23:13+0200\n"
+"PO-Revision-Date: 2016-07-26 23:13+0200\n"
 "Last-Translator: Marco Pivetta <ocramius@gmail.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -191,8 +191,8 @@ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_spezial"
 msgstr "Specialità della casa brasate"
 
 #: ../view/application/home/restaurant.phtml:16
-msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_embistro"
-msgstr "Euro2016 Menu Bistro"
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
+msgstr "Fast food"
 
 #: ../view/application/home/restaurant.phtml:21
 msgid "LocalResources.ContentPage.slide_restaurant_karte_gourmetticker"
@@ -395,8 +395,8 @@ msgstr "Riservazione"
 msgid "Navbar._MainLayout.nav_about"
 msgstr "Chi siamo"
 
-#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
-#~ msgstr "Minestre, Fast food"
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_embistro"
+#~ msgstr "Euro2016 Menu Bistro"
 
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_hit"
 #~ msgstr "Specialità di Selvaggina"
