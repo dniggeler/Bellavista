@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-26 23:13+0200\n"
-"PO-Revision-Date: 2016-07-26 23:13+0200\n"
+"POT-Creation-Date: 2016-10-04 23:19+0200\n"
+"PO-Revision-Date: 2016-10-04 23:19+0200\n"
 "Last-Translator: Marco Pivetta <ocramius@gmail.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -160,6 +160,11 @@ msgstr ""
 "Rilassarsi, viziarsi e immergersi in un altro mondo guardando il Lago "
 "Maggiore… Dimenticare spazio e tempo ed essere se stessi…"
 
+#: ../view/application/home/hotel.phtml:5
+#: ../view/application/home/index.phtml:6
+msgid "LocalResources.ContentPage.slide_start_text_2"
+msgstr "Si prega di Notare:"
+
 #: ../view/application/home/index.phtml:1
 msgid "LocalResources.ContentPage.slide_start_titel"
 msgstr "Il nostro motto: \"SMART LUXURY\""
@@ -192,11 +197,11 @@ msgstr "Specialità della casa brasate"
 
 #: ../view/application/home/restaurant.phtml:16
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
-msgstr "Fast food"
+msgstr "Minestre e Antipasti"
 
 #: ../view/application/home/restaurant.phtml:21
-msgid "LocalResources.ContentPage.slide_restaurant_karte_gourmetticker"
-msgstr "Gourmet-Ticker"
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_hit"
+msgstr "Specialità di Selvaggina"
 
 #: ../view/application/home/restaurant.phtml:26
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_salat"
@@ -395,11 +400,11 @@ msgstr "Riservazione"
 msgid "Navbar._MainLayout.nav_about"
 msgstr "Chi siamo"
 
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_gourmetticker"
+#~ msgstr "Gourmet-Ticker"
+
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_embistro"
 #~ msgstr "Euro2016 Menu Bistro"
-
-#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_hit"
-#~ msgstr "Specialità di Selvaggina"
 
 #~ msgid "LocalResources.ContentPage.slide_hotel_text_2"
 #~ msgstr ""

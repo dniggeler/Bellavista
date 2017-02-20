@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-26 23:13+0200\n"
-"PO-Revision-Date: 2016-07-26 23:14+0200\n"
+"POT-Creation-Date: 2016-10-04 23:15+0200\n"
+"PO-Revision-Date: 2016-10-04 23:19+0200\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contibutors <zf-devteam@zend.com>\n"
 "Language: en_US\n"
@@ -165,6 +165,11 @@ msgstr ""
 "Lago Maggiore immersing into a different world, forgetting about space and "
 "time; be yourself."
 
+#: ../view/application/home/hotel.phtml:5
+#: ../view/application/home/index.phtml:6
+msgid "LocalResources.ContentPage.slide_start_text_2"
+msgstr "Please notice our opening hours:"
+
 #: ../view/application/home/index.phtml:1
 msgid "LocalResources.ContentPage.slide_start_titel"
 msgstr "Our credo is ‘SMART LUXURY‘"
@@ -198,11 +203,11 @@ msgstr "Braised House Specialities"
 
 #: ../view/application/home/restaurant.phtml:16
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
-msgstr "Fast Food"
+msgstr "Soups and Starters"
 
 #: ../view/application/home/restaurant.phtml:21
-msgid "LocalResources.ContentPage.slide_restaurant_karte_gourmetticker"
-msgstr "Gourmet Ticker"
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_hit"
+msgstr "Game Specialties"
 
 #: ../view/application/home/restaurant.phtml:26
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_salat"
@@ -400,11 +405,11 @@ msgstr "Booking"
 msgid "Navbar._MainLayout.nav_about"
 msgstr "About us"
 
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_gourmetticker"
+#~ msgstr "Gourmet Ticker"
+
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_embistro"
 #~ msgstr "Euro2016 Bistro Menu"
-
-#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_hit"
-#~ msgstr "Game Specialties"
 
 #~ msgid "LocalResources.ContentPage.slide_hotel_text_2"
 #~ msgstr ""

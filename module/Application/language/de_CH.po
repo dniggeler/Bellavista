@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-26 23:12+0200\n"
-"PO-Revision-Date: 2016-07-26 23:13+0200\n"
+"POT-Creation-Date: 2016-10-04 23:13+0200\n"
+"PO-Revision-Date: 2016-10-04 23:15+0200\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -172,6 +172,10 @@ msgstr ""
 "Sie sich in unserem Restaurant mit ausgewählten Gaumenfreunden verwöhnen. "
 "Das Bellavista Brissago heisst Sie herzlich willkommen!"
 
+#: ../view/application/home/index.phtml:6
+msgid "LocalResources.ContentPage.slide_start_text_2"
+msgstr "Bitte beachten Sie unsere Öffnungszeiten:"
+
 #: ../view/application/home/restaurant.phtml:1
 msgid "LocalResources.ContentPage.slide_restaurant_titel"
 msgstr "Auch ohne Sterne verwöhnen wir Sie gerne"
@@ -194,15 +198,15 @@ msgstr "Geschmorte Hausspezialitäten"
 
 #: ../view/application/home/restaurant.phtml:16
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
-msgstr "Fastfood"
+msgstr "Suppen und Vorspeisen"
 
 #: ../view/application/home/restaurant.phtml:21
-msgid "LocalResources.ContentPage.slide_restaurant_karte_gourmetticker"
-msgstr "Gourmet-Ticker"
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_hit"
+msgstr "Wildspezialitäten"
 
 #: ../view/application/home/restaurant.phtml:26
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_salat"
-msgstr "Salate Kalt Klein und Fein"
+msgstr "Salate, Kalt Klein und Fein"
 
 #: ../view/application/home/restaurant.phtml:33
 msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_titel"
@@ -396,11 +400,11 @@ msgstr "Buchen"
 msgid "Navbar._MainLayout.nav_about"
 msgstr "Über uns"
 
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_gourmetticker"
+#~ msgstr "Gourmet-Ticker"
+
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_embistro"
 #~ msgstr "Euro2016 Bistro Karte"
-
-#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_hit"
-#~ msgstr "Wildspezialitäten"
 
 #~ msgid "LocalResources.ContentPage.slide_hotel_text_2"
 #~ msgstr ""
