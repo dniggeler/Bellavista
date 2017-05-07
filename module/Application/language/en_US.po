@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-04 23:15+0200\n"
-"PO-Revision-Date: 2016-10-04 23:19+0200\n"
+"POT-Creation-Date: 2017-03-27 21:30+0200\n"
+"PO-Revision-Date: 2017-03-27 21:33+0200\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contibutors <zf-devteam@zend.com>\n"
 "Language: en_US\n"
@@ -113,10 +113,8 @@ msgstr "A Very Warm Welcome from the Niggeler Family!"
 msgid "LocalResources.ContentPage.slide_about_text_vision"
 msgstr ""
 "Only the very best awaits you at Hotel Bellavista Brissago in sunny Ticino. "
-"Experience sheer luxury – at affordable prices. We demonstrate that luxury "
-"doesn’t have to be expensive. With our credo \"SMART LUXURY\" we offer you a "
-"unique ambiance. Your personal needs and requirements are very close to our "
-"heart."
+"With our credo \"With Umbrella, Charm and Character\" we offer you a unique "
+"ambiance. Your personal needs and requirements are very close to our heart."
 
 #: ../view/application/home/about.phtml:4
 msgid "LocalResources.ContentPage.slide_about_text_1"
@@ -124,13 +122,9 @@ msgstr "We care for you to feel at home in this family-like environment:"
 
 #: ../view/application/home/about.phtml:7
 msgid "LocalResources.ContentPage.slide_about_text_2"
-msgstr "Gabriela Niggeler and Andrea Schrabeck front of house"
+msgstr "Gabriela Niggeler and Urs Niggeler in the restaurant"
 
 #: ../view/application/home/about.phtml:8
-msgid "LocalResources.ContentPage.slide_about_text_3"
-msgstr "Urs Niggeler and Alessandro Cannone in the kitchen"
-
-#: ../view/application/home/about.phtml:9
 msgid "LocalResources.ContentPage.slide_about_text_4"
 msgstr "Francesca Melon and Gloria Ferreira in housekeeping"
 
@@ -138,19 +132,31 @@ msgstr "Francesca Melon and Gloria Ferreira in housekeeping"
 msgid "LocalResources.ContentPage.slide_booking_titel"
 msgstr "Reservations"
 
-#: ../view/application/home/booking.phtml:10
+#: ../view/application/home/booking.phtml:4
+msgid "LocalResources.ContentPage.slide_booking_ticket_title"
+msgstr "New in 2017 - TICINO TICKET"
+
+#: ../view/application/home/booking.phtml:8
+msgid "LocalResources.ContentPage.slide_booking_ticket"
+msgstr ""
+"Guests of our hotel benefit from free public transport throughout the Canton "
+"of Ticino. What this makes possible is a small surcharge in the price of "
+"tourist taxes and hotel rooms, as well as through sponsorship and "
+"partnerships."
+
+#: ../view/application/home/booking.phtml:17
 msgid "LocalResources.ContentPage.slide_about_contact_phone"
 msgstr "Tel.:"
 
-#: ../view/application/home/booking.phtml:11
+#: ../view/application/home/booking.phtml:18
 msgid "LocalResources.ContentPage.slide_about_contact_fax"
 msgstr "Fax:"
 
-#: ../view/application/home/booking.phtml:16
+#: ../view/application/home/booking.phtml:23
 msgid "LocalResources.ContentPage.slide_about_contact"
 msgstr "Please call us or send us an "
 
-#: ../view/application/home/booking.phtml:17
+#: ../view/application/home/booking.phtml:24
 msgid "LocalResources.ContentPage.slide_about_contact_email"
 msgstr "Email"
 
@@ -166,13 +172,13 @@ msgstr ""
 "time; be yourself."
 
 #: ../view/application/home/hotel.phtml:5
-#: ../view/application/home/index.phtml:6
+#: ../view/application/home/index.phtml:5
 msgid "LocalResources.ContentPage.slide_start_text_2"
-msgstr "Please notice our opening hours:"
+msgstr "From March 26th, 2017, we would like to welcome you again."
 
 #: ../view/application/home/index.phtml:1
 msgid "LocalResources.ContentPage.slide_start_titel"
-msgstr "Our credo is ‘SMART LUXURY‘"
+msgstr "\"With Umbrella, Charm and Character\""
 
 #: ../view/application/home/index.phtml:3
 msgid "LocalResources.ContentPage.slide_start_text_1"
@@ -199,35 +205,47 @@ msgstr "Menu"
 
 #: ../view/application/home/restaurant.phtml:11
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_spezial"
-msgstr "Braised House Specialities"
+msgstr "Spring Menu"
 
 #: ../view/application/home/restaurant.phtml:16
-msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
-msgstr "Soups and Starters"
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_warm"
+msgstr "Warm Dishes"
 
 #: ../view/application/home/restaurant.phtml:21
-msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_hit"
-msgstr "Game Specialties"
-
-#: ../view/application/home/restaurant.phtml:26
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_salat"
 msgstr "Salads and Cold Dishes"
 
-#: ../view/application/home/restaurant.phtml:33
+#: ../view/application/home/restaurant.phtml:26
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_kaese"
+msgstr "Cheese Platter"
+
+#: ../view/application/home/restaurant.phtml:31
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_dessert"
+msgstr "Dessert"
+
+#: ../view/application/home/restaurant.phtml:38
 msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_titel"
 msgstr "Wine List"
 
-#: ../view/application/home/restaurant.phtml:37
+#: ../view/application/home/restaurant.phtml:42
 msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_ch_rot"
 msgstr "Swiss Red Wine"
 
-#: ../view/application/home/restaurant.phtml:42
+#: ../view/application/home/restaurant.phtml:47
 msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_it_rot"
 msgstr "Italian Red Wine"
 
-#: ../view/application/home/restaurant.phtml:47
+#: ../view/application/home/restaurant.phtml:52
+msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_halbe_rot"
+msgstr "1/2L Red Wine"
+
+#: ../view/application/home/restaurant.phtml:57
 msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_weisse"
 msgstr "White Wine"
+
+#: ../view/application/home/restaurant.phtml:65
+msgid "LocalResources.ContentPage.slide_restaurant_text_opening"
+msgstr "Daily open from 5pm. Please make a reservation for dinner in time."
 
 #: ../view/application/home/review.phtml:1
 msgid "LocalResources.ContentPage.slide_review_titel"
@@ -249,7 +267,7 @@ msgstr ""
 
 #: ../view/application/home/rooms.phtml:13
 msgid "LocalResources.ContentPage.slide_rooms_lnk_preise"
-msgstr "Room Rates 2014"
+msgstr "Room Rates"
 
 #: ../view/application/home/rooms.phtml:18
 msgid "LocalResources.ContentPage.slide_rooms_lnk_stornierung"
@@ -262,8 +280,8 @@ msgstr "Double room with shower/WC, balcony with lake views"
 #: ../view/application/home/rooms.phtml:27
 msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer1_price"
 msgstr ""
-"Prices: 1 night CHF 198.00; 2 - 3 nights CHF 178.00/night; 4 - 6 nights CHF "
-"158.00/night; from 7 nights CHF 148.00/night"
+"Prices: 1 night CHF 218.00; 2 - 3 nights CHF 198.00/night; 4 - 6 nights CHF "
+"178.00/night; from 7 nights CHF 158.00/night"
 
 #: ../view/application/home/rooms.phtml:31
 msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer2_desc"
@@ -272,8 +290,8 @@ msgstr "Double room with shower/WC, garden patio with lake views"
 #: ../view/application/home/rooms.phtml:33
 msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer2_price"
 msgstr ""
-"Prices: 1 night CHF 178.00; 2 - 3 nights CHF 168.00/night; 4 - 6 nights CHF "
-"148.00/night; from 7 nights CHF 138.00/night"
+"Prices: 1 night CHF 198.00; 2 - 3 nights CHF 178.00/night; 4 - 6 nights CHF "
+"158.00/night; from 7 nights CHF 148.00/night"
 
 #: ../view/application/home/rooms.phtml:37
 msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer3_desc"
@@ -282,8 +300,8 @@ msgstr "Double room with shower/WC, lake views"
 #: ../view/application/home/rooms.phtml:39
 msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer3_price"
 msgstr ""
-"Prices: 1 night CHF 178.00; 2 - 3 nights CHF 158.00/night; 4 - 6 nights CHF "
-"138.00/night; from 7 nights CHF 128.00/night"
+"Prices: 1 night CHF 188.00; 2 - 3 nights CHF 168.00/night; 4 - 6 nights CHF "
+"148.00/night; from 7 nights CHF 138.00/night"
 
 #: ../view/application/home/rooms.phtml:42
 msgid "LocalResources.ContentPage.slide_rooms_popup_footer_desc"
@@ -305,13 +323,13 @@ msgstr "A cancellation can only be accepted in writing."
 #: ../view/application/home/rooms.phtml:49
 msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_item2"
 msgstr ""
-"Unless otherwise agreed there is no charge for cancellations up to one week "
+"Unless otherwise agreed there is no charge for cancellations up to two weeks "
 "prior to the start of your booking."
 
 #: ../view/application/home/rooms.phtml:50
 msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_item3"
 msgstr ""
-"From six days prior to the start of your booking a charge of 50% of the "
+"From 13 days prior to the start of your booking a charge of 50% of the "
 "package price is due."
 
 #: ../view/application/home/rooms.phtml:51
@@ -320,18 +338,22 @@ msgstr ""
 "From three days prior to the start of your booking 100% of the package price "
 "becomes due (unless the room can be sold on to another guest)."
 
-#: ../view/application/home/rooms.phtml:63
+#: ../view/application/home/rooms.phtml:58
+msgid "LocalResources.ContentPage.slide_rooms_ready"
+msgstr "Your room is ready at 4pm at arrival date and check-out is at 11am."
+
+#: ../view/application/home/rooms.phtml:62
 msgid "LocalResources.ContentPage.slide_rooms_bezahlung"
 msgstr ""
 "MAESTRO, MASTERCARD, VISA, POSTCARD and REKA are welcome as payment methods."
 
-#: ../view/application/home/rooms.phtml:74
+#: ../view/application/home/rooms.phtml:71
 msgid "LocalResources.ContentPage.slide_rooms_popup_title_stornierung"
 msgstr "Cancellation Policy"
 
-#: ../view/application/home/rooms.phtml:84
+#: ../view/application/home/rooms.phtml:81
 msgid "LocalResources.ContentPage.slide_rooms_popup_title_preise"
-msgstr "Room Rates"
+msgstr "Room Rates 2017"
 
 #: ../view/application/home/specials.phtml:1
 msgid "LocalResources.ContentPage.slide_specials_titel"
@@ -381,29 +403,38 @@ msgstr "Please use "
 msgid "Unexpected error occurred."
 msgstr "Unexpected error occurred"
 
-#: ../view/layout/layout.phtml:110
+#: ../view/layout/layout.phtml:113
 msgid "Navbar._MainLayout.nav_home"
 msgstr "Home"
 
-#: ../view/layout/layout.phtml:111
+#: ../view/layout/layout.phtml:114
 msgid "Navbar._MainLayout.nav_hotel"
 msgstr "Hotel"
 
-#: ../view/layout/layout.phtml:112
+#: ../view/layout/layout.phtml:115
 msgid "Navbar._MainLayout.nav_rooms"
 msgstr "Rooms"
 
-#: ../view/layout/layout.phtml:113
+#: ../view/layout/layout.phtml:116
 msgid "Navbar._MainLayout.nav_restaurant"
 msgstr "Restaurant"
 
-#: ../view/layout/layout.phtml:114
+#: ../view/layout/layout.phtml:117
 msgid "Navbar._MainLayout.nav_booking"
 msgstr "Booking"
 
-#: ../view/layout/layout.phtml:115
+#: ../view/layout/layout.phtml:118
 msgid "Navbar._MainLayout.nav_about"
 msgstr "About us"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
+#~ msgstr "Soups and Starters"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_hit"
+#~ msgstr "Game Specialties"
+
+#~ msgid "LocalResources.ContentPage.slide_about_text_3"
+#~ msgstr "Urs Niggeler and Alessandro Cannone in the kitchen"
 
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_gourmetticker"
 #~ msgstr "Gourmet Ticker"

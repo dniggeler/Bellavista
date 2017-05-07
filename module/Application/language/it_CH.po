@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-04 23:19+0200\n"
-"PO-Revision-Date: 2016-10-04 23:19+0200\n"
+"POT-Creation-Date: 2017-03-27 21:29+0200\n"
+"PO-Revision-Date: 2017-03-27 21:30+0200\n"
 "Last-Translator: Marco Pivetta <ocramius@gmail.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -110,9 +110,9 @@ msgstr "La famiglia Niggeler vi da il benvenuto!"
 #: ../view/application/home/about.phtml:3
 msgid "LocalResources.ContentPage.slide_about_text_vision"
 msgstr ""
-"All’Albergo Bellavista vi aspetta solo il meglio. Concedetevi il puro lusso "
-"a prezzo modico. Il nostro „SMART LUXURY“ vi offre un ambiente unico nel "
-"quale i vostri desideri sono la cosa più importante."
+"All’Albergo Bellavista vi aspetta solo il meglio. Con piacere, amore e un "
+"sorriso offrono un’atmosfera unica. I vostri desideri individuali e le "
+"esigenze di noi sono particolarmente cari."
 
 #: ../view/application/home/about.phtml:4
 msgid "LocalResources.ContentPage.slide_about_text_1"
@@ -120,13 +120,9 @@ msgstr "I responsabili del vostro benessere in ambiente familiare:"
 
 #: ../view/application/home/about.phtml:7
 msgid "LocalResources.ContentPage.slide_about_text_2"
-msgstr "Gabriela Niggeler e Andrea Schrabeck nel ristorante"
+msgstr "Gabriela Niggeler e Urs Niggeler nel ristorante"
 
 #: ../view/application/home/about.phtml:8
-msgid "LocalResources.ContentPage.slide_about_text_3"
-msgstr "Urs Niggeler e Alessandro Cannone in cucina"
-
-#: ../view/application/home/about.phtml:9
 msgid "LocalResources.ContentPage.slide_about_text_4"
 msgstr "Francesca Melon e Gloria Ferreira nelle camere"
 
@@ -134,19 +130,30 @@ msgstr "Francesca Melon e Gloria Ferreira nelle camere"
 msgid "LocalResources.ContentPage.slide_booking_titel"
 msgstr "Riservazione"
 
-#: ../view/application/home/booking.phtml:10
+#: ../view/application/home/booking.phtml:4
+msgid "LocalResources.ContentPage.slide_booking_ticket_title"
+msgstr "Nuova nel 2017: TICINO TICKET"
+
+#: ../view/application/home/booking.phtml:8
+msgid "LocalResources.ContentPage.slide_booking_ticket"
+msgstr ""
+"Gli ospiti del nostro Albergo si usano i mezzi pubblici (bus e ferrovia) in "
+"tutto lo stato or gratuito. Realizzato con un piccolo supplemento di tasse e "
+"camere d’albergo. Cosi come sponsorizzazione e partnership."
+
+#: ../view/application/home/booking.phtml:17
 msgid "LocalResources.ContentPage.slide_about_contact_phone"
 msgstr "Tel.:"
 
-#: ../view/application/home/booking.phtml:11
+#: ../view/application/home/booking.phtml:18
 msgid "LocalResources.ContentPage.slide_about_contact_fax"
 msgstr "Fax:"
 
-#: ../view/application/home/booking.phtml:16
+#: ../view/application/home/booking.phtml:23
 msgid "LocalResources.ContentPage.slide_about_contact"
 msgstr "Chiamateci o inviateci una "
 
-#: ../view/application/home/booking.phtml:17
+#: ../view/application/home/booking.phtml:24
 msgid "LocalResources.ContentPage.slide_about_contact_email"
 msgstr "e-mail"
 
@@ -161,9 +168,9 @@ msgstr ""
 "Maggiore… Dimenticare spazio e tempo ed essere se stessi…"
 
 #: ../view/application/home/hotel.phtml:5
-#: ../view/application/home/index.phtml:6
+#: ../view/application/home/index.phtml:5
 msgid "LocalResources.ContentPage.slide_start_text_2"
-msgstr "Si prega di Notare:"
+msgstr "Dal 26 marzo 2017 abbiamo un'offerta bentornato."
 
 #: ../view/application/home/index.phtml:1
 msgid "LocalResources.ContentPage.slide_start_titel"
@@ -193,35 +200,47 @@ msgstr "Carta"
 
 #: ../view/application/home/restaurant.phtml:11
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_spezial"
-msgstr "Specialità della casa brasate"
+msgstr "Menu primavera"
 
 #: ../view/application/home/restaurant.phtml:16
-msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
-msgstr "Minestre e Antipasti"
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_warm"
+msgstr "Piatti caldi"
 
 #: ../view/application/home/restaurant.phtml:21
-msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_hit"
-msgstr "Specialità di Selvaggina"
-
-#: ../view/application/home/restaurant.phtml:26
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_salat"
 msgstr "Insalate e piatti freddi"
 
-#: ../view/application/home/restaurant.phtml:33
+#: ../view/application/home/restaurant.phtml:26
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_kaese"
+msgstr "Formaggio"
+
+#: ../view/application/home/restaurant.phtml:31
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_dessert"
+msgstr "Dolce fata in casa"
+
+#: ../view/application/home/restaurant.phtml:38
 msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_titel"
 msgstr "Carta del vino"
 
-#: ../view/application/home/restaurant.phtml:37
+#: ../view/application/home/restaurant.phtml:42
 msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_ch_rot"
 msgstr "Vini rossi svizzeri"
 
-#: ../view/application/home/restaurant.phtml:42
+#: ../view/application/home/restaurant.phtml:47
 msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_it_rot"
 msgstr "Vini rossi italiani"
 
-#: ../view/application/home/restaurant.phtml:47
+#: ../view/application/home/restaurant.phtml:52
+msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_halbe_rot"
+msgstr "Mezzo vini rosso"
+
+#: ../view/application/home/restaurant.phtml:57
 msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_weisse"
 msgstr "Vini bianchi"
+
+#: ../view/application/home/restaurant.phtml:65
+msgid "LocalResources.ContentPage.slide_restaurant_text_opening"
+msgstr "Aperto tutti i giorni dalle ore 17.00. Si consiglia la prenotazione "
 
 #: ../view/application/home/review.phtml:1
 msgid "LocalResources.ContentPage.slide_review_titel"
@@ -256,8 +275,8 @@ msgstr "Camera doppia con doccia e WC, vista lago, balcone"
 #: ../view/application/home/rooms.phtml:27
 msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer1_price"
 msgstr ""
-"Prezzi: 1 notte Fr. 198.–, 2-3 notti Fr. 178.–, 4-6 notti Fr. 158.–, 7 o più "
-"notti Fr. 148.–"
+"Prezzi: 1 notte Fr. 218.–, 2-3 notti Fr. 198.–, 4-6 notti Fr. 178.–, 7 o più "
+"notti Fr. 158.–"
 
 #: ../view/application/home/rooms.phtml:31
 msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer2_desc"
@@ -266,8 +285,8 @@ msgstr "Camera doppia con doccia e WC, vista lago, posto a sedere in giardino"
 #: ../view/application/home/rooms.phtml:33
 msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer2_price"
 msgstr ""
-"Prezzi: 1 notte Fr. 178.–, 2-3 notti Fr. 168.–, 4-6 notti Fr. 148.–, 7 o più "
-"notti Fr. 138.–"
+"Prezzi: 1 notte Fr. 198.–, 2-3 notti Fr. 178.–, 4-6 notti Fr. 158.–, 7 o più "
+"notti Fr. 148.–"
 
 #: ../view/application/home/rooms.phtml:37
 msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer3_desc"
@@ -276,8 +295,8 @@ msgstr "Camera doppia con doccia e WC, vista lago"
 #: ../view/application/home/rooms.phtml:39
 msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer3_price"
 msgstr ""
-"Prezzi: 1 notte Fr. 178.–, 2-3 notti Fr. 158.–, 4-6 notti Fr. 138.–, 7 o più "
-"notti Fr. 128.–"
+"Prezzi: 1 notte Fr. 188.–, 2-3 notti Fr. 168.–, 4-6 notti Fr. 148.–, 7 o più "
+"notti Fr. 138.–"
 
 #: ../view/application/home/rooms.phtml:42
 msgid "LocalResources.ContentPage.slide_rooms_popup_footer_desc"
@@ -298,13 +317,13 @@ msgstr "L’annullamento è accettato solo in forma scritta."
 #: ../view/application/home/rooms.phtml:49
 msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_item2"
 msgstr ""
-"In mancanza di accordi diversi, fino a una settimana prima del vostro "
+"In mancanza di accordi diversi, fino a due settimani prima del vostro "
 "soggiorno, l’annullamento non comporta costi."
 
 #: ../view/application/home/rooms.phtml:50
 msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_item3"
 msgstr ""
-"A partire da 6 giorni prima del vostro soggiorno, fatturiamo il 50% della "
+"A partire da 13 giorni prima del vostro soggiorno, fatturiamo il 50% della "
 "vostra riservazione."
 
 #: ../view/application/home/rooms.phtml:51
@@ -314,19 +333,23 @@ msgstr ""
 "vostra riservazione in mancanza di una riservazione sostitutiva. Lo stesso "
 "vale per arrivi posticipati o partenze anticipate."
 
-#: ../view/application/home/rooms.phtml:63
+#: ../view/application/home/rooms.phtml:58
+msgid "LocalResources.ContentPage.slide_rooms_ready"
+msgstr "-"
+
+#: ../view/application/home/rooms.phtml:62
 msgid "LocalResources.ContentPage.slide_rooms_bezahlung"
 msgstr ""
 "Metodi di pagamento accettati: MAESTRO, MASTERCARD, VISA, POSTCARD e REKA-"
 "Check."
 
-#: ../view/application/home/rooms.phtml:74
+#: ../view/application/home/rooms.phtml:71
 msgid "LocalResources.ContentPage.slide_rooms_popup_title_stornierung"
 msgstr "Annullamento"
 
-#: ../view/application/home/rooms.phtml:84
+#: ../view/application/home/rooms.phtml:81
 msgid "LocalResources.ContentPage.slide_rooms_popup_title_preise"
-msgstr "Listino prezzi 2014"
+msgstr "Listino prezzi 2017"
 
 #: ../view/application/home/specials.phtml:1
 msgid "LocalResources.ContentPage.slide_specials_titel"
@@ -376,29 +399,38 @@ msgstr "Please use "
 msgid "Unexpected error occurred."
 msgstr "Unexpected error occurred"
 
-#: ../view/layout/layout.phtml:110
+#: ../view/layout/layout.phtml:113
 msgid "Navbar._MainLayout.nav_home"
 msgstr "Home"
 
-#: ../view/layout/layout.phtml:111
+#: ../view/layout/layout.phtml:114
 msgid "Navbar._MainLayout.nav_hotel"
 msgstr "Albergo"
 
-#: ../view/layout/layout.phtml:112
+#: ../view/layout/layout.phtml:115
 msgid "Navbar._MainLayout.nav_rooms"
 msgstr "Camere"
 
-#: ../view/layout/layout.phtml:113
+#: ../view/layout/layout.phtml:116
 msgid "Navbar._MainLayout.nav_restaurant"
 msgstr "Ristorante"
 
-#: ../view/layout/layout.phtml:114
+#: ../view/layout/layout.phtml:117
 msgid "Navbar._MainLayout.nav_booking"
 msgstr "Riservazione"
 
-#: ../view/layout/layout.phtml:115
+#: ../view/layout/layout.phtml:118
 msgid "Navbar._MainLayout.nav_about"
 msgstr "Chi siamo"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
+#~ msgstr "Minestre e Antipasti"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_hit"
+#~ msgstr "Specialità di Selvaggina"
+
+#~ msgid "LocalResources.ContentPage.slide_about_text_3"
+#~ msgstr "Urs Niggeler e Alessandro Cannone in cucina"
 
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_gourmetticker"
 #~ msgstr "Gourmet-Ticker"
