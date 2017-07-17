@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-27 21:30+0200\n"
-"PO-Revision-Date: 2017-03-27 21:33+0200\n"
+"PO-Revision-Date: 2017-07-17 23:32+0200\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contibutors <zf-devteam@zend.com>\n"
 "Language: en_US\n"
@@ -205,7 +205,7 @@ msgstr "Menu"
 
 #: ../view/application/home/restaurant.phtml:11
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_spezial"
-msgstr "Spring Menu"
+msgstr "Fitness Plate"
 
 #: ../view/application/home/restaurant.phtml:16
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_warm"
