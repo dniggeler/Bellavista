@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-27 21:29+0200\n"
-"PO-Revision-Date: 2017-09-28 21:06+0200\n"
+"POT-Creation-Date: 2018-03-09 22:11+0100\n"
+"PO-Revision-Date: 2018-03-09 22:11+0100\n"
 "Last-Translator: Marco Pivetta <ocramius@gmail.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -170,7 +170,7 @@ msgstr ""
 #: ../view/application/home/hotel.phtml:5
 #: ../view/application/home/index.phtml:5
 msgid "LocalResources.ContentPage.slide_start_text_2"
-msgstr "Dal 26 marzo 2017 abbiamo un'offerta bentornato."
+msgstr "Dal 16 marzo 2018 abbiamo un'offerta bentornato."
 
 #: ../view/application/home/index.phtml:1
 msgid "LocalResources.ContentPage.slide_start_titel"
@@ -199,16 +199,16 @@ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen"
 msgstr "Carta"
 
 #: ../view/application/home/restaurant.phtml:11
-msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_spezial"
-msgstr "Specialità  di Selvaggina"
-
-#: ../view/application/home/restaurant.phtml:16
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_warm"
 msgstr "Piatti caldi"
 
+#: ../view/application/home/restaurant.phtml:16
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_wok"
+msgstr "Piatti leggeri"
+
 #: ../view/application/home/restaurant.phtml:21
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_salat"
-msgstr "Insalate e piatti freddi"
+msgstr "Insalate"
 
 #: ../view/application/home/restaurant.phtml:26
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_kaese"
@@ -238,7 +238,7 @@ msgstr "Mezzo vini rosso"
 msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_weisse"
 msgstr "Vini bianchi"
 
-#: ../view/application/home/restaurant.phtml:65
+#: ../view/application/home/restaurant.phtml:66
 msgid "LocalResources.ContentPage.slide_restaurant_text_opening"
 msgstr "Aperto tutti i giorni dalle ore 17.00. Si consiglia la prenotazione "
 
@@ -399,29 +399,32 @@ msgstr "Please use "
 msgid "Unexpected error occurred."
 msgstr "Unexpected error occurred"
 
-#: ../view/layout/layout.phtml:113
+#: ../view/layout/layout.phtml:111
 msgid "Navbar._MainLayout.nav_home"
 msgstr "Home"
 
-#: ../view/layout/layout.phtml:114
+#: ../view/layout/layout.phtml:112
 msgid "Navbar._MainLayout.nav_hotel"
 msgstr "Albergo"
 
-#: ../view/layout/layout.phtml:115
+#: ../view/layout/layout.phtml:113
 msgid "Navbar._MainLayout.nav_rooms"
 msgstr "Camere"
 
-#: ../view/layout/layout.phtml:116
+#: ../view/layout/layout.phtml:114
 msgid "Navbar._MainLayout.nav_restaurant"
 msgstr "Ristorante"
 
-#: ../view/layout/layout.phtml:117
+#: ../view/layout/layout.phtml:115
 msgid "Navbar._MainLayout.nav_booking"
 msgstr "Riservazione"
 
-#: ../view/layout/layout.phtml:118
+#: ../view/layout/layout.phtml:116
 msgid "Navbar._MainLayout.nav_about"
 msgstr "Chi siamo"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_spezial"
+#~ msgstr "Specialità  di Selvaggina"
 
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
 #~ msgstr "Minestre e Antipasti"

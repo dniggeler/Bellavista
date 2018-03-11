@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-28 21:00+0200\n"
-"PO-Revision-Date: 2017-09-28 21:01+0200\n"
+"POT-Creation-Date: 2018-03-09 22:01+0100\n"
+"PO-Revision-Date: 2018-03-09 22:03+0100\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -170,7 +170,7 @@ msgstr ""
 #: ../view/application/home/hotel.phtml:5
 #: ../view/application/home/index.phtml:5
 msgid "LocalResources.ContentPage.slide_start_text_2"
-msgstr "Ab dem 26. März 2017 heissen wir Sie wieder herzlich willkommen."
+msgstr "Ab dem 16. März 2018 heissen wir Sie wieder herzlich willkommen."
 
 #: ../view/application/home/index.phtml:1
 msgid "LocalResources.ContentPage.slide_start_titel"
@@ -200,16 +200,16 @@ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen"
 msgstr "Speisekarten"
 
 #: ../view/application/home/restaurant.phtml:11
-msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_spezial"
-msgstr "Wildspezialitäten"
-
-#: ../view/application/home/restaurant.phtml:16
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_warm"
 msgstr "Warme Gerichte"
 
+#: ../view/application/home/restaurant.phtml:16
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_wok"
+msgstr "Leichte Gerichte, Wok"
+
 #: ../view/application/home/restaurant.phtml:21
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_salat"
-msgstr "Salate, Kalt Klein und Fein"
+msgstr "Salate, Klein und Fein"
 
 #: ../view/application/home/restaurant.phtml:26
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_kaese"
@@ -423,6 +423,9 @@ msgstr "Buchen"
 #: ../view/layout/layout.phtml:116
 msgid "Navbar._MainLayout.nav_about"
 msgstr "Über uns"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_spezial"
+#~ msgstr "Wildspezialitäten"
 
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
 #~ msgstr "Suppen und Vorspeisen"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-27 21:30+0200\n"
-"PO-Revision-Date: 2017-09-28 21:06+0200\n"
+"POT-Creation-Date: 2018-03-09 22:03+0100\n"
+"PO-Revision-Date: 2018-03-09 22:04+0100\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contibutors <zf-devteam@zend.com>\n"
 "Language: en_US\n"
@@ -174,7 +174,7 @@ msgstr ""
 #: ../view/application/home/hotel.phtml:5
 #: ../view/application/home/index.phtml:5
 msgid "LocalResources.ContentPage.slide_start_text_2"
-msgstr "From March 26th, 2017, we would like to welcome you again."
+msgstr "From March 16th, 2018, we would like to welcome you again."
 
 #: ../view/application/home/index.phtml:1
 msgid "LocalResources.ContentPage.slide_start_titel"
@@ -204,16 +204,16 @@ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen"
 msgstr "Menu"
 
 #: ../view/application/home/restaurant.phtml:11
-msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_spezial"
-msgstr "Game Specialties"
-
-#: ../view/application/home/restaurant.phtml:16
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_warm"
 msgstr "Warm Dishes"
 
+#: ../view/application/home/restaurant.phtml:16
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_wok"
+msgstr "Light Meals"
+
 #: ../view/application/home/restaurant.phtml:21
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_salat"
-msgstr "Salads and Cold Dishes"
+msgstr "Salads"
 
 #: ../view/application/home/restaurant.phtml:26
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_kaese"
@@ -243,7 +243,7 @@ msgstr "1/2L Red Wine"
 msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_weisse"
 msgstr "White Wine"
 
-#: ../view/application/home/restaurant.phtml:65
+#: ../view/application/home/restaurant.phtml:66
 msgid "LocalResources.ContentPage.slide_restaurant_text_opening"
 msgstr "Daily open from 5pm. Please make a reservation for dinner in time."
 
@@ -403,29 +403,32 @@ msgstr "Please use "
 msgid "Unexpected error occurred."
 msgstr "Unexpected error occurred"
 
-#: ../view/layout/layout.phtml:113
+#: ../view/layout/layout.phtml:111
 msgid "Navbar._MainLayout.nav_home"
 msgstr "Home"
 
-#: ../view/layout/layout.phtml:114
+#: ../view/layout/layout.phtml:112
 msgid "Navbar._MainLayout.nav_hotel"
 msgstr "Hotel"
 
-#: ../view/layout/layout.phtml:115
+#: ../view/layout/layout.phtml:113
 msgid "Navbar._MainLayout.nav_rooms"
 msgstr "Rooms"
 
-#: ../view/layout/layout.phtml:116
+#: ../view/layout/layout.phtml:114
 msgid "Navbar._MainLayout.nav_restaurant"
 msgstr "Restaurant"
 
-#: ../view/layout/layout.phtml:117
+#: ../view/layout/layout.phtml:115
 msgid "Navbar._MainLayout.nav_booking"
 msgstr "Booking"
 
-#: ../view/layout/layout.phtml:118
+#: ../view/layout/layout.phtml:116
 msgid "Navbar._MainLayout.nav_about"
 msgstr "About us"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_spezial"
+#~ msgstr "Game Specialties"
 
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_suppen"
 #~ msgstr "Soups and Starters"
