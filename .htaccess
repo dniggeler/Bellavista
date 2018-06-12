@@ -3,3 +3,4 @@ redirect 301 /index.html /public
 redirect 301 /de/index.html /public/de
 redirect 301 /en/index.html /public/en
 redirect 301 /it/index.html /public/it
+redirect 301 /js /public/js

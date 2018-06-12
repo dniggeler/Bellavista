@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-09 22:11+0100\n"
-"PO-Revision-Date: 2018-03-09 22:11+0100\n"
+"POT-Creation-Date: 2018-06-12 10:19+0200\n"
+"PO-Revision-Date: 2018-06-12 10:19+0200\n"
 "Last-Translator: Marco Pivetta <ocramius@gmail.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -203,8 +203,8 @@ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_warm"
 msgstr "Piatti caldi"
 
 #: ../view/application/home/restaurant.phtml:16
-msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_wok"
-msgstr "Piatti leggeri"
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_fitness"
+msgstr "Piatti di fitness"
 
 #: ../view/application/home/restaurant.phtml:21
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_salat"
@@ -423,6 +423,9 @@ msgstr "Riservazione"
 msgid "Navbar._MainLayout.nav_about"
 msgstr "Chi siamo"
 
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_wok"
+#~ msgstr "Piatti leggeri"
+
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_spezial"
 #~ msgstr "Specialità  di Selvaggina"
 
@@ -472,9 +475,6 @@ msgstr "Chi siamo"
 
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_vorschau"
 #~ msgstr "Specialità della stagione"
-
-#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_fitness"
-#~ msgstr "Fitness"
 
 #~ msgid "LocalResources.ContentPage.slide_references_titel"
 #~ msgstr "Review IT"

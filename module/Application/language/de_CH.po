@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-09 22:01+0100\n"
-"PO-Revision-Date: 2018-03-09 22:03+0100\n"
+"POT-Creation-Date: 2018-06-12 10:18+0200\n"
+"PO-Revision-Date: 2018-06-12 10:18+0200\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -204,8 +204,8 @@ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_warm"
 msgstr "Warme Gerichte"
 
 #: ../view/application/home/restaurant.phtml:16
-msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_wok"
-msgstr "Leichte Gerichte, Wok"
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_fitness"
+msgstr "Fitness-Teller"
 
 #: ../view/application/home/restaurant.phtml:21
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_salat"
@@ -424,6 +424,9 @@ msgstr "Buchen"
 msgid "Navbar._MainLayout.nav_about"
 msgstr "Über uns"
 
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_wok"
+#~ msgstr "Leichte Gerichte, Wok"
+
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_spezial"
 #~ msgstr "Wildspezialitäten"
 
@@ -470,9 +473,6 @@ msgstr "Über uns"
 
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_pasta"
 #~ msgstr "Teigwaren"
-
-#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_fitness"
-#~ msgstr "Fitness"
 
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_vorschau"
 #~ msgstr "Saisonale Spezialitäten"
