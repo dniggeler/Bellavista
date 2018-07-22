@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-12 10:19+0200\n"
-"PO-Revision-Date: 2018-06-12 10:19+0200\n"
+"PO-Revision-Date: 2018-07-21 23:29+0200\n"
 "Last-Translator: Marco Pivetta <ocramius@gmail.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -200,7 +200,7 @@ msgstr "Carta"
 
 #: ../view/application/home/restaurant.phtml:11
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_warm"
-msgstr "Piatti caldi"
+msgstr "Piatti classici"
 
 #: ../view/application/home/restaurant.phtml:16
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_fitness"
