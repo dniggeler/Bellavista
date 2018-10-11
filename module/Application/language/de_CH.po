@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-12 10:18+0200\n"
-"PO-Revision-Date: 2018-07-21 23:28+0200\n"
+"POT-Creation-Date: 2018-10-11 21:02+0200\n"
+"PO-Revision-Date: 2018-10-11 21:05+0200\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -204,8 +204,9 @@ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_warm"
 msgstr "Klassiker"
 
 #: ../view/application/home/restaurant.phtml:16
-msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_fitness"
-msgstr "Fitness-Teller"
+msgid ""
+"LocalResources.ContentPage.slide_restaurant_karte_speisen_wildspezialitaeten"
+msgstr "Wildkarte"
 
 #: ../view/application/home/restaurant.phtml:21
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_salat"
@@ -423,6 +424,9 @@ msgstr "Buchen"
 #: ../view/layout/layout.phtml:116
 msgid "Navbar._MainLayout.nav_about"
 msgstr "Über uns"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_fitness"
+#~ msgstr "Fitness-Teller"
 
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_wok"
 #~ msgstr "Leichte Gerichte, Wok"

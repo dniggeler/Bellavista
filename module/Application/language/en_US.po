@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-12 10:18+0200\n"
-"PO-Revision-Date: 2018-06-12 10:18+0200\n"
+"POT-Creation-Date: 2018-10-11 21:06+0200\n"
+"PO-Revision-Date: 2018-10-11 21:06+0200\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contibutors <zf-devteam@zend.com>\n"
 "Language: en_US\n"
@@ -208,8 +208,9 @@ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_warm"
 msgstr "Warm Dishes"
 
 #: ../view/application/home/restaurant.phtml:16
-msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_fitness"
-msgstr "Fitness Plate"
+msgid ""
+"LocalResources.ContentPage.slide_restaurant_karte_speisen_wildspezialitaeten"
+msgstr "Game Specialties"
 
 #: ../view/application/home/restaurant.phtml:21
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_salat"
@@ -426,6 +427,9 @@ msgstr "Booking"
 #: ../view/layout/layout.phtml:116
 msgid "Navbar._MainLayout.nav_about"
 msgstr "About us"
+
+#~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_fitness"
+#~ msgstr "Fitness Plate"
 
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_wok"
 #~ msgstr "Light Meals"
