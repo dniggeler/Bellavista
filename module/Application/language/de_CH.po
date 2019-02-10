@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-11 21:02+0200\n"
-"PO-Revision-Date: 2018-10-11 21:05+0200\n"
+"POT-Creation-Date: 2019-02-09 16:17+0100\n"
+"PO-Revision-Date: 2019-02-09 16:20+0100\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -131,7 +131,7 @@ msgstr "Buchen"
 
 #: ../view/application/home/booking.phtml:4
 msgid "LocalResources.ContentPage.slide_booking_ticket_title"
-msgstr "Neu im Jahr 2017: TICINO TICKET"
+msgstr "TICINO TICKET"
 
 #: ../view/application/home/booking.phtml:8
 msgid "LocalResources.ContentPage.slide_booking_ticket"
@@ -161,22 +161,29 @@ msgid "LocalResources.ContentPage.slide_hotel_titel"
 msgstr "Hotel"
 
 #: ../view/application/home/hotel.phtml:3
+#: ../view/application/home/index.phtml:3
+#: ../view/application/home/restaurant.phtml:4
+#: ../view/application/home/rooms.phtml:4
+msgid "LocalResources.ContentPage.slide_start_text_20years"
+msgstr "Feiern Sie mit uns 20 Jahre Bellavista"
+
+#: ../view/application/home/hotel.phtml:5
 msgid "LocalResources.ContentPage.slide_hotel_text_1"
 msgstr ""
 "Ausspannen, sich verwöhnen lassen, auf der Terrasse sitzen und beim Blick "
 "über den Lago Maggiore in eine andere Welt eintauchen, Raum und Zeit "
 "vergessen, sich selbst sein."
 
-#: ../view/application/home/hotel.phtml:5
-#: ../view/application/home/index.phtml:5
+#: ../view/application/home/hotel.phtml:7
+#: ../view/application/home/index.phtml:7
 msgid "LocalResources.ContentPage.slide_start_text_2"
-msgstr "Ab dem 16. März 2018 heissen wir Sie wieder herzlich willkommen."
+msgstr "Ab dem 15. März 2019 heissen wir Sie wieder herzlich willkommen."
 
 #: ../view/application/home/index.phtml:1
 msgid "LocalResources.ContentPage.slide_start_titel"
 msgstr "\"Mit Schirm, Charme und Charakter\""
 
-#: ../view/application/home/index.phtml:3
+#: ../view/application/home/index.phtml:5
 msgid "LocalResources.ContentPage.slide_start_text_1"
 msgstr ""
 "Geniessen Sie den atemberaubenden Ausblick auf unserer Terrasse und lassen "
@@ -187,7 +194,7 @@ msgstr ""
 msgid "LocalResources.ContentPage.slide_restaurant_titel"
 msgstr "Auch ohne Sterne verwöhnen wir Sie gerne"
 
-#: ../view/application/home/restaurant.phtml:3
+#: ../view/application/home/restaurant.phtml:7
 msgid "LocalResources.ContentPage.slide_restaurant_text_1"
 msgstr ""
 "Unsere Speisekarte mit zahlreichen feinen Spezialitäten hat sich in der "
@@ -195,52 +202,55 @@ msgstr ""
 "Weinkeller vorzügliche Tropfen nicht zuletzt auch aus den nahen Rebbergen "
 "kombinieren."
 
-#: ../view/application/home/restaurant.phtml:7
+#: ../view/application/home/restaurant.phtml:11
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen"
 msgstr "Speisekarten"
 
-#: ../view/application/home/restaurant.phtml:11
+#: ../view/application/home/restaurant.phtml:15
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_warm"
 msgstr "Klassiker"
 
-#: ../view/application/home/restaurant.phtml:16
-msgid ""
-"LocalResources.ContentPage.slide_restaurant_karte_speisen_wildspezialitaeten"
-msgstr "Wildkarte"
+#: ../view/application/home/restaurant.phtml:20
+msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_saison"
+msgstr "Saison 2019"
 
-#: ../view/application/home/restaurant.phtml:21
+#: ../view/application/home/restaurant.phtml:25
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_salat"
 msgstr "Salate, Klein und Fein"
 
-#: ../view/application/home/restaurant.phtml:26
+#: ../view/application/home/restaurant.phtml:30
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_kaese"
 msgstr "Käse zum Abschluss"
 
-#: ../view/application/home/restaurant.phtml:31
+#: ../view/application/home/restaurant.phtml:35
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_dessert"
 msgstr "Süssspeisen"
 
-#: ../view/application/home/restaurant.phtml:38
+#: ../view/application/home/restaurant.phtml:42
 msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_titel"
 msgstr "Weinkarten"
 
-#: ../view/application/home/restaurant.phtml:42
+#: ../view/application/home/restaurant.phtml:46
 msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_ch_rot"
 msgstr "Schweizer Rotweine"
 
-#: ../view/application/home/restaurant.phtml:47
+#: ../view/application/home/restaurant.phtml:51
 msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_it_rot"
 msgstr "Italienische Rotweine"
 
-#: ../view/application/home/restaurant.phtml:52
+#: ../view/application/home/restaurant.phtml:56
 msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_halbe_rot"
 msgstr "1/2L-Rotweine"
 
-#: ../view/application/home/restaurant.phtml:57
+#: ../view/application/home/restaurant.phtml:61
 msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_weisse"
 msgstr "Weissweine"
 
 #: ../view/application/home/restaurant.phtml:66
+msgid "LocalResources.ContentPage.slide_restaurant_karte_weine_aperitif"
+msgstr "Hausaperitif"
+
+#: ../view/application/home/restaurant.phtml:75
 msgid "LocalResources.ContentPage.slide_restaurant_text_opening"
 msgstr ""
 "Täglich geöffnet ab 17.00 Uhr,Tischreservation zum Abendessen von Vorteil"
@@ -253,105 +263,105 @@ msgstr "Bewertung"
 msgid "LocalResources.ContentPage.slide_rooms_titel"
 msgstr "Zimmer"
 
-#: ../view/application/home/rooms.phtml:4
+#: ../view/application/home/rooms.phtml:8
 msgid "LocalResources.ContentPage.slide_rooms_greetings"
 msgstr "Liebe Gäste, Freunde und Restaurantbesucher"
 
-#: ../view/application/home/rooms.phtml:8
+#: ../view/application/home/rooms.phtml:12
 msgid "LocalResources.ContentPage.slide_rooms_desc"
 msgstr ""
 "Alle Zimmer „ohne TV und Telefon“ für beste Aussichten auf Erholung. Ein "
 "WLAN-Internet-Zugang stellen wir Ihnen kostenlos zur Verfügung."
 
-#: ../view/application/home/rooms.phtml:13
+#: ../view/application/home/rooms.phtml:17
 msgid "LocalResources.ContentPage.slide_rooms_lnk_preise"
 msgstr "Preisliste"
 
-#: ../view/application/home/rooms.phtml:18
+#: ../view/application/home/rooms.phtml:22
 msgid "LocalResources.ContentPage.slide_rooms_lnk_stornierung"
 msgstr "Stornierungshinweis"
 
-#: ../view/application/home/rooms.phtml:25
+#: ../view/application/home/rooms.phtml:29
 msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer1_desc"
 msgstr "Doppelzimmer mit Dusche/WC, Seesicht, Balkon"
 
-#: ../view/application/home/rooms.phtml:27
+#: ../view/application/home/rooms.phtml:31
 msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer1_price"
 msgstr ""
 "Preise: 1 Nacht Fr. 218.-, 2 - 3 Nächte Fr. 198.-, 4 - 6 Nächte Fr. 178.-, "
 "ab 7 Nächten Fr. 158.-"
 
-#: ../view/application/home/rooms.phtml:31
+#: ../view/application/home/rooms.phtml:35
 msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer2_desc"
 msgstr "Doppelzimmer mit Dusche/WC, Seesicht, Gartensitzplatz"
 
-#: ../view/application/home/rooms.phtml:33
+#: ../view/application/home/rooms.phtml:37
 msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer2_price"
 msgstr ""
 "Preise: 1 Nacht Fr. 198.-, 2 - 3 Nächte Fr. 178.-, 4 - 6 Nächte Fr. 158.-, "
 "ab 7 Nächten Fr. 148.-"
 
-#: ../view/application/home/rooms.phtml:37
+#: ../view/application/home/rooms.phtml:41
 msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer3_desc"
 msgstr "Doppelzimmer mit Dusche/WC, Seesicht"
 
-#: ../view/application/home/rooms.phtml:39
+#: ../view/application/home/rooms.phtml:43
 msgid "LocalResources.ContentPage.slide_rooms_popup_zimmer3_price"
 msgstr ""
 "Preise: 1 Nacht Fr. 188.-, 2 - 3 Nächte Fr. 168.-, 4 - 6 Nächte Fr. 148.-, "
 "ab 7 Nächten Fr. 138.-"
 
-#: ../view/application/home/rooms.phtml:42
+#: ../view/application/home/rooms.phtml:46
 msgid "LocalResources.ContentPage.slide_rooms_popup_footer_desc"
 msgstr ""
 "Halbpension: Ein täglich wechselndes Abendmenu in drei Gängen, pro Person "
 "Fr. 38.00<br />Hund ohne Mahlzeiten: Fr. 12.-"
 
-#: ../view/application/home/rooms.phtml:46
+#: ../view/application/home/rooms.phtml:50
 msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_intro"
 msgstr ""
 "Falls Sie Ihre Zimmerreservation stornieren oder Ihren Aufenthalt verkürzen "
 "wollen, gilt Folgendes zu beachten:"
 
-#: ../view/application/home/rooms.phtml:48
+#: ../view/application/home/rooms.phtml:52
 msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_item1"
 msgstr "Stornierungen bedingen der schriftlichen Form."
 
-#: ../view/application/home/rooms.phtml:49
+#: ../view/application/home/rooms.phtml:53
 msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_item2"
 msgstr ""
 "Fehlen spezielle Vereinbarungen, so fallen bis 2 Wochen vor Ferienantritt "
 "keine Stornokosten an."
 
-#: ../view/application/home/rooms.phtml:50
+#: ../view/application/home/rooms.phtml:54
 msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_item3"
 msgstr ""
 "Ab 13 Tagen vor Ferienantritt berechnen wir 50% des gebuchten Arrangement."
 
-#: ../view/application/home/rooms.phtml:51
+#: ../view/application/home/rooms.phtml:55
 msgid "LocalResources.ContentPage.slide_rooms_popup_stornierung_item4"
 msgstr ""
 "Ab 3 Tagen vor Ferienantritt berechnen wir 100% des gebuchten Arrangement, "
 "falls kein Ersatzmieter gefunden werden kann. Die gleiche Regelung gilt für "
 "verspätete Ferienantritte oder vorzeitige Abreisen."
 
-#: ../view/application/home/rooms.phtml:58
+#: ../view/application/home/rooms.phtml:62
 msgid "LocalResources.ContentPage.slide_rooms_ready"
 msgstr "Ihr Zimmer ist ab 16 Uhr bezugsbereit und Checkout-Zeit ist um 11 Uhr."
 
-#: ../view/application/home/rooms.phtml:62
+#: ../view/application/home/rooms.phtml:66
 msgid "LocalResources.ContentPage.slide_rooms_bezahlung"
 msgstr ""
 "Wir akzeptieren: MAESTRO, MASTERCARD, VISA, POSTCARD und REKA als "
 "Zahlungsmittel."
 
-#: ../view/application/home/rooms.phtml:71
+#: ../view/application/home/rooms.phtml:75
 msgid "LocalResources.ContentPage.slide_rooms_popup_title_stornierung"
 msgstr "Stornierung"
 
-#: ../view/application/home/rooms.phtml:81
+#: ../view/application/home/rooms.phtml:85
 msgid "LocalResources.ContentPage.slide_rooms_popup_title_preise"
-msgstr "Preisliste 2017"
+msgstr "Preisliste"
 
 #: ../view/application/home/specials.phtml:1
 msgid "LocalResources.ContentPage.slide_specials_titel"
@@ -424,6 +434,11 @@ msgstr "Buchen"
 #: ../view/layout/layout.phtml:116
 msgid "Navbar._MainLayout.nav_about"
 msgstr "Über uns"
+
+#~ msgid ""
+#~ "LocalResources.ContentPage."
+#~ "slide_restaurant_karte_speisen_wildspezialitaeten"
+#~ msgstr "Wildkarte"
 
 #~ msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_fitness"
 #~ msgstr "Fitness-Teller"
