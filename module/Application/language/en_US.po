@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-09 16:16+0100\n"
-"PO-Revision-Date: 2019-02-09 16:21+0100\n"
+"PO-Revision-Date: 2020-01-11 11:18+0100\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contibutors <zf-devteam@zend.com>\n"
 "Language: en_US\n"
@@ -181,7 +181,7 @@ msgstr ""
 #: ../view/application/home/hotel.phtml:7
 #: ../view/application/home/index.phtml:7
 msgid "LocalResources.ContentPage.slide_start_text_2"
-msgstr "From March 15th, 2019 we would like to welcome you again."
+msgstr "From March 20th, 2020 we would like to welcome you again."
 
 #: ../view/application/home/index.phtml:1
 msgid "LocalResources.ContentPage.slide_start_titel"
