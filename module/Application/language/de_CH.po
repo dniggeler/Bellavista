@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-09 16:17+0100\n"
-"PO-Revision-Date: 2020-01-11 11:18+0100\n"
+"PO-Revision-Date: 2020-04-25 23:49+0200\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: translate\n"
 "X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 1.8.3\n"
+"X-Generator: Poedit 2.3\n"
 "X-Poedit-SearchPath-0: ..\n"
 
 #: ../view/application/home/DummySliderCaptions.phtml:2
@@ -165,7 +165,7 @@ msgstr "Hotel"
 #: ../view/application/home/restaurant.phtml:4
 #: ../view/application/home/rooms.phtml:4
 msgid "LocalResources.ContentPage.slide_start_text_20years"
-msgstr "Feiern Sie mit uns 20 Jahre Bellavista"
+msgstr "Nach dem Coronafrust folgt die Wanderlust"
 
 #: ../view/application/home/hotel.phtml:5
 msgid "LocalResources.ContentPage.slide_hotel_text_1"
@@ -177,18 +177,18 @@ msgstr ""
 #: ../view/application/home/hotel.phtml:7
 #: ../view/application/home/index.phtml:7
 msgid "LocalResources.ContentPage.slide_start_text_2"
-msgstr "Ab dem 20. März 2020 heissen wir Sie wieder herzlich willkommen."
+msgstr "Voraussichtliche Eröffnung am 8. Juni 2020"
 
 #: ../view/application/home/index.phtml:1
 msgid "LocalResources.ContentPage.slide_start_titel"
-msgstr "\"Mit Schirm, Charme und Charakter\""
+msgstr "\"Wanderntoll ist Wonderful\""
 
 #: ../view/application/home/index.phtml:5
 msgid "LocalResources.ContentPage.slide_start_text_1"
 msgstr ""
-"Geniessen Sie den atemberaubenden Ausblick auf unserer Terrasse und lassen "
-"Sie sich in unserem Restaurant mit ausgewählten Gaumenfreunden verwöhnen. "
-"Das Bellavista Brissago heisst Sie herzlich willkommen!"
+"Verliere niemals Dein ZIEL aus den AUGEN auch nicht in schweren ZEITEN. Wir "
+"sind klein, fein, familiär und trotzdem auf DISTANZ. Wir garantieren Ihnen, "
+"dass sämtliche vom BAG geforderten Richtlinien erfüllt werden."
 
 #: ../view/application/home/restaurant.phtml:1
 msgid "LocalResources.ContentPage.slide_restaurant_titel"
