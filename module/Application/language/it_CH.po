@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-09 16:18+0100\n"
-"PO-Revision-Date: 2020-01-11 11:19+0100\n"
+"PO-Revision-Date: 2020-04-30 12:58+0200\n"
 "Last-Translator: Marco Pivetta <ocramius@gmail.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: translate\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-Bookmarks: -1,-1,-1,-1,-1,-1,5,-1,-1,-1\n"
-"X-Generator: Poedit 1.8.3\n"
+"X-Generator: Poedit 2.3\n"
 "X-Poedit-SearchPath-0: ..\n"
 
 #: ../view/application/home/DummySliderCaptions.phtml:2
@@ -177,7 +177,7 @@ msgstr ""
 #: ../view/application/home/hotel.phtml:7
 #: ../view/application/home/index.phtml:7
 msgid "LocalResources.ContentPage.slide_start_text_2"
-msgstr "Dal 20 marzo 2020 abbiamo un'offerta bentornato."
+msgstr "Dal 15 maggio 2020 abbiamo un'offerta bentornato."
 
 #: ../view/application/home/index.phtml:1
 msgid "LocalResources.ContentPage.slide_start_titel"
@@ -211,7 +211,7 @@ msgstr "Piatti classici"
 
 #: ../view/application/home/restaurant.phtml:20
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_saison"
-msgstr "Stagione 2019"
+msgstr "Stagione 2020"
 
 #: ../view/application/home/restaurant.phtml:25
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_salat"

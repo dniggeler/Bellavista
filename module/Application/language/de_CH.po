@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-09 16:17+0100\n"
-"PO-Revision-Date: 2020-04-25 23:49+0200\n"
+"PO-Revision-Date: 2020-04-30 12:53+0200\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -137,8 +137,8 @@ msgstr "TICINO TICKET"
 msgid "LocalResources.ContentPage.slide_booking_ticket"
 msgstr ""
 "Als Gäste unseres Hotels benützen Sie die öffentlichen Verkehrsmittel im "
-"ganzen Kanton gratis. Möglich macht das ein kleiner Preisaufschlag der "
-"Kurtaxen und Hotelzimmer, sowie durch Sponsoring und Partnerschaften."
+"ganzen Kanton gratis. Zu Ihrem Wandertrip füllen wir Ihnen den Rucksack mit "
+"Motivation-& Energie-Booster für zwischendurch."
 
 #: ../view/application/home/booking.phtml:17
 msgid "LocalResources.ContentPage.slide_about_contact_phone"
@@ -177,7 +177,7 @@ msgstr ""
 #: ../view/application/home/hotel.phtml:7
 #: ../view/application/home/index.phtml:7
 msgid "LocalResources.ContentPage.slide_start_text_2"
-msgstr "Voraussichtliche Eröffnung am 8. Juni 2020"
+msgstr "Voraussichtliche Eröffnung am 15. Mai 2020"
 
 #: ../view/application/home/index.phtml:1
 msgid "LocalResources.ContentPage.slide_start_titel"
@@ -212,7 +212,7 @@ msgstr "Klassiker"
 
 #: ../view/application/home/restaurant.phtml:20
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_saison"
-msgstr "Saison 2019"
+msgstr "Saison 2020"
 
 #: ../view/application/home/restaurant.phtml:25
 msgid "LocalResources.ContentPage.slide_restaurant_karte_speisen_salat"
