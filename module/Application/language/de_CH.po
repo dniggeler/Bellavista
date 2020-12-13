@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-09 16:17+0100\n"
-"PO-Revision-Date: 2020-04-30 12:53+0200\n"
+"PO-Revision-Date: 2020-12-13 18:02+0100\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -177,7 +177,13 @@ msgstr ""
 #: ../view/application/home/hotel.phtml:7
 #: ../view/application/home/index.phtml:7
 msgid "LocalResources.ContentPage.slide_start_text_2"
-msgstr "Voraussichtliche Eröffnung am 15. Mai 2020"
+msgstr ""
+"Geänderte Öffnungszeiten<br/>\n"
+"<ul>\n"
+"<li>18.12. - 20.12.: 12 - 19 Uhr<br/></li>\n"
+"<li>28.12. - 30.12.: 12 - 19 Uhr<br/></li>\n"
+"</ul>\n"
+"An Silvester dem 31.12.2020  haben wir von 18:00 - 1:00 Uhr geöffnet."
 
 #: ../view/application/home/index.phtml:1
 msgid "LocalResources.ContentPage.slide_start_titel"
