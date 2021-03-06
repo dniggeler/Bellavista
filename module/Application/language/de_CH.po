@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-09 16:17+0100\n"
-"PO-Revision-Date: 2020-12-21 07:42+0100\n"
+"PO-Revision-Date: 2021-03-06 16:48+0100\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -137,8 +137,7 @@ msgstr "TICINO TICKET"
 msgid "LocalResources.ContentPage.slide_booking_ticket"
 msgstr ""
 "Als Gäste unseres Hotels benützen Sie die öffentlichen Verkehrsmittel im "
-"ganzen Kanton gratis. Zu Ihrem Wandertrip füllen wir Ihnen den Rucksack mit "
-"Motivation-& Energie-Booster für zwischendurch."
+"ganzen Kanton gratis."
 
 #: ../view/application/home/booking.phtml:17
 msgid "LocalResources.ContentPage.slide_about_contact_phone"
@@ -165,7 +164,7 @@ msgstr "Hotel"
 #: ../view/application/home/restaurant.phtml:4
 #: ../view/application/home/rooms.phtml:4
 msgid "LocalResources.ContentPage.slide_start_text_20years"
-msgstr "Nach dem Coronafrust folgt die Wanderlust"
+msgstr "Jeder Urlaub ist eine kleine Kündigung (Frank Geist)"
 
 #: ../view/application/home/hotel.phtml:5
 msgid "LocalResources.ContentPage.slide_hotel_text_1"
@@ -177,11 +176,11 @@ msgstr ""
 #: ../view/application/home/hotel.phtml:7
 #: ../view/application/home/index.phtml:7
 msgid "LocalResources.ContentPage.slide_start_text_2"
-msgstr "Geöffnet nur für Hotelgäste vom 28.12. bis 02.01.2021."
+msgstr "Saisonbeginn: 26. März 2021"
 
 #: ../view/application/home/index.phtml:1
 msgid "LocalResources.ContentPage.slide_start_titel"
-msgstr "\"Wanderntoll ist Wonderful\""
+msgstr "Zum Tapetenwechsel ins Tessin"
 
 #: ../view/application/home/index.phtml:5
 msgid "LocalResources.ContentPage.slide_start_text_1"
