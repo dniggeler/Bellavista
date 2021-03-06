@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: ZendSkeletonApplication\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-09 16:17+0100\n"
-"PO-Revision-Date: 2021-03-06 16:48+0100\n"
+"PO-Revision-Date: 2021-03-06 17:45+0100\n"
 "Last-Translator: Evan Coury <me@evancoury.com>\n"
 "Language-Team: ZF Contributors <zf-devteam@zend.com>\n"
 "Language: de_DE\n"
@@ -251,7 +251,7 @@ msgstr "Hausaperitif"
 
 #: ../view/application/home/restaurant.phtml:75
 msgid "LocalResources.ContentPage.slide_restaurant_text_opening"
-msgstr "Geöffnet nur für Hotelgäste vom 28.12. bis 02.01.2021."
+msgstr "Saisonbeginn: 26. März 2021"
 
 #: ../view/application/home/review.phtml:1
 msgid "LocalResources.ContentPage.slide_review_titel"
